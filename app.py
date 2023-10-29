@@ -1,5 +1,5 @@
-from flask import Flask,  jsonify, render_template
-
+import os 
+from flask import Flask,  jsonify, render_template, request
 import json 
 
 
@@ -14,11 +14,17 @@ with open('./alphaCode3.json','r') as f:
 with open('./countries.json','r') as f:
     countryData = json.load(f)
  
+@app.route('/')
+def homePage():
+     return render_template('home.html')
+
+
 
 @app.route('/<str>')
 def hello_world(str):
-    # userCountry = input("Enter country name : ")
 
+    # try:
+             
         userCountry = str.title()
         print(userCountry)
         alphaCodeValue = alphaCode3[userCountry]
@@ -31,7 +37,11 @@ def hello_world(str):
              'name' : countryData[alphaCodeValue]['Name'],
              'capital': countryData[alphaCodeValue]['capital'],
              'flag': countryData[alphaCodeValue]['countryFlagImg'],
-             'borderFlags': bordersFlags
+             'population': countryData[alphaCodeValue]['population'],
+             'area': countryData[alphaCodeValue]['Area'],
+             'latitude': countryData[alphaCodeValue]['latitude'],
+             'longitude': countryData[alphaCodeValue]['longitude'],
+             'borderFlags': bordersFlags 
         }
         print(countryData[alphaCodeValue]['Name'])
         print(countryData[alphaCodeValue]['capital'])
@@ -39,6 +49,8 @@ def hello_world(str):
         # print(countryData[alphaCodeValue]['countryBorders'])
         print(country_Details_Dict['borderFlags'])
         return render_template('circle.html',params=country_Details_Dict)
+    # except Exception as e:
+    #      print("The exception is ",e)
 
  
 
@@ -60,6 +72,6 @@ def countryDetails(str):
 
 
 if __name__ == '__main__':
-    app.run(debug=True,port=5000) 
+    app.run(debug=True,port=5003) 
 
 

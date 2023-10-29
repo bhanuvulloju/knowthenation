@@ -4,16 +4,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+    <link href='https://fonts.googleapis.com/css?family=Agbalumo' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <title>Know About Nation</title>
     <style>
         body {
+            background: #d0bdf4;
+        }
+
+        .titleBlock {
+            font-family: 'Agbalumo';
+            font-size: 52px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .flagsBlock {
+
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
             margin: 0;
-            background: #d0bdf4;
         }
 
         .center-element {
@@ -36,10 +50,10 @@
         .dynamic-element {
             width: 140px;
             height: 100px;
-            /* border: 1px solid red; */
             position: absolute;
         }
-        .flagsBlock{
+
+        .flagsBlock {
             position: absolute;
             left: 50%;
 
@@ -48,6 +62,11 @@
 </head>
 
 <body>
+    <h1 class="titleBlock"> Know The Nation </h1>
+    <!-- <form class="d-flex" action="/" method="get">
+        <input class="form-control me-2" id="input" name="query" type="text" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+    </form> -->
     <div class="flagsBlock">
         <div class="center-element" id="centerElement">
             <img src="{{params.flag}}" width="130px" height="90px" />
@@ -56,17 +75,46 @@
 
         </div>
     </div>
-    <!-- {%for flag in params.borderFlags%} 
-        <div class="dynamic-element">
-            
-            <h3>{{ flag[0] }}</h3>
+
+    <div class="container">
+        <div class="row g-4 m-2">
+            <div class="col-4">
+                <div class="p-3 border bg-light">
+                    <h2>Country : {{params.name}}</h2>
+                </div>
+            </div>
         </div>
-        <li><img src="{{flag[1]}}" width="130px" height="90px"/> </li> 
-        <div class="dynamic-elements-container" id="dynamicElementsContainer">
+        <div class="row g-4 m-2">
+            <div class="col-4">
+                <div class="p-3 border bg-light">
+                    <h2>Capital : {{params.capital}}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row g-4 m-2">
+            <div class="col-4">
+                <div class="p-3 border bg-light">
+                    <h2>Area : {{params.area}} sq.km</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row g-4 m-2">
+            <div class="col-4">
+                <div class="p-3 border bg-light">
+                    <h2>Population : {{params.population}}</h2>
+                </div>
+            </div>
+        </div>
+
     </div>
-    {%endfor%} -->
 
 
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
 </body>
 <script>
     const centerElement = document.getElementById('centerElement');
@@ -82,7 +130,8 @@
     console.log(mylist.length)
 
 
-    const radius = 200; // Adjust the radius as needed
+    var radius = 240; // Adjust the radius as needed
+    if (mylist.length > 9) radius = 350;
 
 
     for (let i = 0; i < mylist.length; i++) {
@@ -98,7 +147,11 @@
         var countryName = mylist[i].split(',')[0].replaceAll('&#39;', "")
         countryName = countryName.replace("[", "")
         var flagImg = mylist[i].split(',')[1].replaceAll('&#39;', "'")
-        var htmlContent = "<img src=" + flagImg + "width='140px' height='100px'/>" + "<span>" + countryName + "</span>"
+
+        var htmlContent = `
+        <img src=${flagImg} width='140px' height='100px'/>
+        <span>${countryName}</span>
+        `
         dynamicElement.innerHTML = htmlContent
         dynamicElementsContainer.appendChild(dynamicElement);
     }

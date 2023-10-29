@@ -392,7 +392,7 @@
     "longitude": 65.0,
     "Area": 652230.0,
     "population": 40218234,
-    "countryFlagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+    "countryFlagImg": "https://flagcdn.com/w320/af.png",
     "countryBorders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"]
   },
   "GUM": {
