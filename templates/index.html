@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="data:,">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+</head>
+<style>
+    body{
+        background-color: #ABB2B9 ;
+    }
+</style>
+<body>
+    
+    <h1> country name : {{userCountry}}</h1>
+
+    <h3>{{ params.name}}</h3>
+    <h3>{{ params.capital}}</h3>
+    <h3>{{ params.flag}}</h3>
+    <img src="{{params.flag}}" width="130px" height="90px"/>
+    <h4>Borders</h4>
+
+        {%for flag in params.borderFlags%} 
+            <h3>{{ flag[0] }}</h3>
+            <li><img src="{{flag[1]}}" width="130px" height="90px"/> </li> 
+        {%endfor%}
+
+</body>
+</html>

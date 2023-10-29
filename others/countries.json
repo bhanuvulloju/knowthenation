@@ -1,0 +1,3249 @@
+{
+  "PYF": {
+    "Name": "French Polynesia",
+    "capital": "Papeet\u0113",
+    "currency": { "XPF": { "name": "CFP franc", "symbol": "\u20a3" } },
+    "languages": { "fra": "French" },
+    "latitude": 17.6797,
+    "longitude": 149.4068,
+    "Area": 4167.0,
+    "population": 280904,
+    "countryFlagImg": "https://flagcdn.com/w320/pf.png",
+    "countryBorders": []
+  },
+  "MAF": {
+    "Name": "Saint Martin",
+    "capital": "Marigot",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": 18.0708,
+    "longitude": 63.0501,
+    "Area": 53.0,
+    "population": 38659,
+    "countryFlagImg": "https://flagcdn.com/w320/mf.png",
+    "countryBorders": ["SXM"]
+  },
+  "VEN": {
+    "Name": "Venezuela",
+    "capital": "Caracas",
+    "currency": {
+      "VES": { "name": "Venezuelan bol\u00edvar soberano", "symbol": "Bs.S." }
+    },
+    "languages": { "spa": "Spanish" },
+    "latitude": 8.0,
+    "longitude": -66.0,
+    "Area": 916445.0,
+    "population": 28435943,
+    "countryFlagImg": "https://flagcdn.com/w320/ve.png",
+    "countryBorders": ["BRA", "COL", "GUY"]
+  },
+  "REU": {
+    "Name": "R\u00e9union",
+    "capital": "Saint-Denis",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": -21.15,
+    "longitude": 55.5,
+    "Area": 2511.0,
+    "population": 840974,
+    "countryFlagImg": "https://flagcdn.com/w320/re.png",
+    "countryBorders": []
+  },
+  "SLV": {
+    "Name": "El Salvador",
+    "capital": "San Salvador",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": 13.83333333,
+    "longitude": -88.91666666,
+    "Area": 21041.0,
+    "population": 6486201,
+    "countryFlagImg": "https://flagcdn.com/w320/sv.png",
+    "countryBorders": ["GTM", "HND"]
+  },
+  "DMA": {
+    "Name": "Dominica",
+    "capital": "Roseau",
+    "currency": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 15.41666666,
+    "longitude": -61.33333333,
+    "Area": 751.0,
+    "population": 71991,
+    "countryFlagImg": "https://flagcdn.com/w320/dm.png",
+    "countryBorders": []
+  },
+  "GIB": {
+    "Name": "Gibraltar",
+    "capital": "Gibraltar",
+    "currency": { "GIP": { "name": "Gibraltar pound", "symbol": "\u00a3" } },
+    "languages": { "eng": "English" },
+    "latitude": 36.13333333,
+    "longitude": -5.35,
+    "Area": 6.0,
+    "population": 33691,
+    "countryFlagImg": "https://flagcdn.com/w320/gi.png",
+    "countryBorders": ["ESP"]
+  },
+  "KEN": {
+    "Name": "Kenya",
+    "capital": "Nairobi",
+    "currency": { "KES": { "name": "Kenyan shilling", "symbol": "Sh" } },
+    "languages": { "eng": "English", "swa": "Swahili" },
+    "latitude": 1.0,
+    "longitude": 38.0,
+    "Area": 580367.0,
+    "population": 53771300,
+    "countryFlagImg": "https://flagcdn.com/w320/ke.png",
+    "countryBorders": ["ETH", "SOM", "SSD", "TZA", "UGA"]
+  },
+  "BRA": {
+    "Name": "Brazil",
+    "capital": "Bras\u00edlia",
+    "currency": { "BRL": { "name": "Brazilian real", "symbol": "R$" } },
+    "languages": { "por": "Portuguese" },
+    "latitude": -10.0,
+    "longitude": -55.0,
+    "Area": 8515767.0,
+    "population": 212559409,
+    "countryFlagImg": "https://flagcdn.com/w320/br.png",
+    "countryBorders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ]
+  },
+  "MDV": {
+    "Name": "Maldives",
+    "capital": "Mal\u00e9",
+    "currency": { "MVR": { "name": "Maldivian rufiyaa", "symbol": ".\u0783" } },
+    "languages": { "div": "Maldivian" },
+    "latitude": 3.25,
+    "longitude": 73.0,
+    "Area": 300.0,
+    "population": 540542,
+    "countryFlagImg": "https://flagcdn.com/w320/mv.png",
+    "countryBorders": []
+  },
+  "USA": {
+    "Name": "United States",
+    "capital": "Washington, D.C.",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 38.0,
+    "longitude": -97.0,
+    "Area": 9372610.0,
+    "population": 329484123,
+    "countryFlagImg": "https://flagcdn.com/w320/us.png",
+    "countryBorders": ["CAN", "MEX"]
+  },
+  "COK": {
+    "Name": "Cook Islands",
+    "capital": "Avarua",
+    "currency": {
+      "CKD": { "name": "Cook Islands dollar", "symbol": "$" },
+      "NZD": { "name": "New Zealand dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English", "rar": "Cook Islands M\u0101ori" },
+    "latitude": -21.23333333,
+    "longitude": -159.76666666,
+    "Area": 236.0,
+    "population": 18100,
+    "countryFlagImg": "https://flagcdn.com/w320/ck.png",
+    "countryBorders": []
+  },
+  "NIU": {
+    "Name": "Niue",
+    "capital": "Alofi",
+    "currency": { "NZD": { "name": "New Zealand dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "niu": "Niuean" },
+    "latitude": -19.03333333,
+    "longitude": -169.86666666,
+    "Area": 260.0,
+    "population": 1470,
+    "countryFlagImg": "https://flagcdn.com/w320/nu.png",
+    "countryBorders": []
+  },
+  "SYC": {
+    "Name": "Seychelles",
+    "capital": "Victoria",
+    "currency": { "SCR": { "name": "Seychellois rupee", "symbol": "\u20a8" } },
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    },
+    "latitude": -4.58333333,
+    "longitude": 55.66666666,
+    "Area": 452.0,
+    "population": 98462,
+    "countryFlagImg": "https://flagcdn.com/w320/sc.png",
+    "countryBorders": []
+  },
+  "CAF": {
+    "Name": "Central African Republic",
+    "capital": "Bangui",
+    "currency": {
+      "XAF": { "name": "Central African CFA franc", "symbol": "Fr" }
+    },
+    "languages": { "fra": "French", "sag": "Sango" },
+    "latitude": 7.0,
+    "longitude": 21.0,
+    "Area": 622984.0,
+    "population": 4829764,
+    "countryFlagImg": "https://flagcdn.com/w320/cf.png",
+    "countryBorders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"]
+  },
+  "TKL": {
+    "Name": "Tokelau",
+    "capital": "Fakaofo",
+    "currency": { "NZD": { "name": "New Zealand dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "smo": "Samoan", "tkl": "Tokelauan" },
+    "latitude": -9.0,
+    "longitude": -172.0,
+    "Area": 12.0,
+    "population": 1411,
+    "countryFlagImg": "https://flagcdn.com/w320/tk.png",
+    "countryBorders": []
+  },
+  "VUT": {
+    "Name": "Vanuatu",
+    "capital": "Port Vila",
+    "currency": { "VUV": { "name": "Vanuatu vatu", "symbol": "Vt" } },
+    "languages": { "bis": "Bislama", "eng": "English", "fra": "French" },
+    "latitude": -16.0,
+    "longitude": 167.0,
+    "Area": 12189.0,
+    "population": 307150,
+    "countryFlagImg": "https://flagcdn.com/w320/vu.png",
+    "countryBorders": []
+  },
+  "GMB": {
+    "Name": "Gambia",
+    "capital": "Banjul",
+    "currency": { "GMD": { "name": "dalasi", "symbol": "D" } },
+    "languages": { "eng": "English" },
+    "latitude": 13.46666666,
+    "longitude": -16.56666666,
+    "Area": 10689.0,
+    "population": 2416664,
+    "countryFlagImg": "https://flagcdn.com/w320/gm.png",
+    "countryBorders": ["SEN"]
+  },
+  "GUY": {
+    "Name": "Guyana",
+    "capital": "Georgetown",
+    "currency": { "GYD": { "name": "Guyanese dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 5.0,
+    "longitude": -59.0,
+    "Area": 214969.0,
+    "population": 786559,
+    "countryFlagImg": "https://flagcdn.com/w320/gy.png",
+    "countryBorders": ["BRA", "SUR", "VEN"]
+  },
+  "FLK": {
+    "Name": "Falkland Islands",
+    "capital": "Stanley",
+    "currency": {
+      "FKP": { "name": "Falkland Islands pound", "symbol": "\u00a3" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": -51.75,
+    "longitude": -59.0,
+    "Area": 12173.0,
+    "population": 2563,
+    "countryFlagImg": "https://flagcdn.com/w320/fk.png",
+    "countryBorders": []
+  },
+  "BEL": {
+    "Name": "Belgium",
+    "capital": "Brussels",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "deu": "German", "fra": "French", "nld": "Dutch" },
+    "latitude": 50.83333333,
+    "longitude": 4.0,
+    "Area": 30528.0,
+    "population": 11555997,
+    "countryFlagImg": "https://flagcdn.com/w320/be.png",
+    "countryBorders": ["FRA", "DEU", "LUX", "NLD"]
+  },
+  "ESH": {
+    "Name": "Western Sahara",
+    "capital": "El Aai\u00fan",
+    "currency": {
+      "DZD": { "name": "Algerian dinar", "symbol": "\u062f\u062c" },
+      "MAD": { "name": "Moroccan dirham", "symbol": "DH" },
+      "MRU": { "name": "Mauritanian ouguiya", "symbol": "UM" }
+    },
+    "languages": { "ber": "Berber", "mey": "Hassaniya", "spa": "Spanish" },
+    "latitude": 24.5,
+    "longitude": -13.0,
+    "Area": 266000.0,
+    "population": 510713,
+    "countryFlagImg": "https://flagcdn.com/w320/eh.png",
+    "countryBorders": ["DZA", "MRT", "MAR"]
+  },
+  "TUR": {
+    "Name": "Turkey",
+    "capital": "Ankara",
+    "currency": { "TRY": { "name": "Turkish lira", "symbol": "\u20ba" } },
+    "languages": { "tur": "Turkish" },
+    "latitude": 39.0,
+    "longitude": 35.0,
+    "Area": 783562.0,
+    "population": 84339067,
+    "countryFlagImg": "https://flagcdn.com/w320/tr.png",
+    "countryBorders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"]
+  },
+  "VCT": {
+    "Name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "currency": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 13.25,
+    "longitude": -61.2,
+    "Area": 389.0,
+    "population": 110947,
+    "countryFlagImg": "https://flagcdn.com/w320/vc.png",
+    "countryBorders": []
+  },
+  "PAK": {
+    "Name": "Pakistan",
+    "capital": "Islamabad",
+    "currency": { "PKR": { "name": "Pakistani rupee", "symbol": "\u20a8" } },
+    "languages": { "eng": "English", "urd": "Urdu" },
+    "latitude": 30.0,
+    "longitude": 70.0,
+    "Area": 881912.0,
+    "population": 220892331,
+    "countryFlagImg": "https://flagcdn.com/w320/pk.png",
+    "countryBorders": ["AFG", "CHN", "IND", "IRN"]
+  },
+  "ALA": {
+    "Name": "\u00c5land Islands",
+    "capital": "Mariehamn",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "swe": "Swedish" },
+    "latitude": 60.116667,
+    "longitude": 19.9,
+    "Area": 1580.0,
+    "population": 29458,
+    "countryFlagImg": "https://flagcdn.com/w320/ax.png",
+    "countryBorders": []
+  },
+  "IRN": {
+    "Name": "Iran",
+    "capital": "Tehran",
+    "currency": { "IRR": { "name": "Iranian rial", "symbol": "\ufdfc" } },
+    "languages": { "fas": "Persian (Farsi)" },
+    "latitude": 32.0,
+    "longitude": 53.0,
+    "Area": 1648195.0,
+    "population": 83992953,
+    "countryFlagImg": "https://flagcdn.com/w320/ir.png",
+    "countryBorders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"]
+  },
+  "IDN": {
+    "Name": "Indonesia",
+    "capital": "Jakarta",
+    "currency": { "IDR": { "name": "Indonesian rupiah", "symbol": "Rp" } },
+    "languages": { "ind": "Indonesian" },
+    "latitude": -5.0,
+    "longitude": 120.0,
+    "Area": 1904569.0,
+    "population": 273523621,
+    "countryFlagImg": "https://flagcdn.com/w320/id.png",
+    "countryBorders": ["TLS", "MYS", "PNG"]
+  },
+  "NZL": {
+    "Name": "New Zealand",
+    "capital": "Wellington",
+    "currency": { "NZD": { "name": "New Zealand dollar", "symbol": "$" } },
+    "languages": {
+      "eng": "English",
+      "mri": "M\u0101ori",
+      "nzs": "New Zealand Sign Language"
+    },
+    "latitude": -41.0,
+    "longitude": 174.0,
+    "Area": 270467.0,
+    "population": 5084300,
+    "countryFlagImg": "https://flagcdn.com/w320/nz.png",
+    "countryBorders": []
+  },
+  "AFG": {
+    "Name": "Afghanistan",
+    "capital": "Kabul",
+    "currency": { "AFN": { "name": "Afghan afghani", "symbol": "\u060b" } },
+    "languages": { "prs": "Dari", "pus": "Pashto", "tuk": "Turkmen" },
+    "latitude": 33.0,
+    "longitude": 65.0,
+    "Area": 652230.0,
+    "population": 40218234,
+    "countryFlagImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+    "countryBorders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"]
+  },
+  "GUM": {
+    "Name": "Guam",
+    "capital": "Hag\u00e5t\u00f1a",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "cha": "Chamorro", "eng": "English", "spa": "Spanish" },
+    "latitude": 13.46666666,
+    "longitude": 144.78333333,
+    "Area": 549.0,
+    "population": 168783,
+    "countryFlagImg": "https://flagcdn.com/w320/gu.png",
+    "countryBorders": []
+  },
+  "ALB": {
+    "Name": "Albania",
+    "capital": "Tirana",
+    "currency": { "ALL": { "name": "Albanian lek", "symbol": "L" } },
+    "languages": { "sqi": "Albanian" },
+    "latitude": 41.0,
+    "longitude": 20.0,
+    "Area": 28748.0,
+    "population": 2837743,
+    "countryFlagImg": "https://flagcdn.com/w320/al.png",
+    "countryBorders": ["MNE", "GRC", "MKD", "UNK"]
+  },
+  "COD": {
+    "Name": "DR Congo",
+    "capital": "Kinshasa",
+    "currency": { "CDF": { "name": "Congolese franc", "symbol": "FC" } },
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    },
+    "latitude": 0.0,
+    "longitude": 25.0,
+    "Area": 2344858.0,
+    "population": 108407721,
+    "countryFlagImg": "https://flagcdn.com/w320/cd.png",
+    "countryBorders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ]
+  },
+  "CIV": {
+    "Name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "currency": { "XOF": { "name": "West African CFA franc", "symbol": "Fr" } },
+    "languages": { "fra": "French" },
+    "latitude": 8.0,
+    "longitude": -5.0,
+    "Area": 322463.0,
+    "population": 26378275,
+    "countryFlagImg": "https://flagcdn.com/w320/ci.png",
+    "countryBorders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
+  },
+  "SDN": {
+    "Name": "Sudan",
+    "capital": "Khartoum",
+    "currency": { "SDG": { "name": "Sudanese pound" } },
+    "languages": { "ara": "Arabic", "eng": "English" },
+    "latitude": 15.0,
+    "longitude": 30.0,
+    "Area": 1886068.0,
+    "population": 43849269,
+    "countryFlagImg": "https://flagcdn.com/w320/sd.png",
+    "countryBorders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"]
+  },
+  "TLS": {
+    "Name": "Timor-Leste",
+    "capital": "Dili",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "por": "Portuguese", "tet": "Tetum" },
+    "latitude": -8.83333333,
+    "longitude": 125.91666666,
+    "Area": 14874.0,
+    "population": 1318442,
+    "countryFlagImg": "https://flagcdn.com/w320/tl.png",
+    "countryBorders": ["IDN"]
+  },
+  "LUX": {
+    "Name": "Luxembourg",
+    "capital": "Luxembourg",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "deu": "German", "fra": "French", "ltz": "Luxembourgish" },
+    "latitude": 49.75,
+    "longitude": 6.16666666,
+    "Area": 2586.0,
+    "population": 632275,
+    "countryFlagImg": "https://flagcdn.com/w320/lu.png",
+    "countryBorders": ["BEL", "FRA", "DEU"]
+  },
+  "SAU": {
+    "Name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "currency": { "SAR": { "name": "Saudi riyal", "symbol": "\u0631.\u0633" } },
+    "languages": { "ara": "Arabic" },
+    "latitude": 25.0,
+    "longitude": 45.0,
+    "Area": 2149690.0,
+    "population": 34813867,
+    "countryFlagImg": "https://flagcdn.com/w320/sa.png",
+    "countryBorders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"]
+  },
+  "KHM": {
+    "Name": "Cambodia",
+    "capital": "Phnom Penh",
+    "currency": {
+      "KHR": { "name": "Cambodian riel", "symbol": "\u17db" },
+      "USD": { "name": "United States dollar", "symbol": "$" }
+    },
+    "languages": { "khm": "Khmer" },
+    "latitude": 13.0,
+    "longitude": 105.0,
+    "Area": 181035.0,
+    "population": 16718971,
+    "countryFlagImg": "https://flagcdn.com/w320/kh.png",
+    "countryBorders": ["LAO", "THA", "VNM"]
+  },
+  "NPL": {
+    "Name": "Nepal",
+    "capital": "Kathmandu",
+    "currency": { "NPR": { "name": "Nepalese rupee", "symbol": "\u20a8" } },
+    "languages": { "nep": "Nepali" },
+    "latitude": 28.0,
+    "longitude": 84.0,
+    "Area": 147181.0,
+    "population": 29136808,
+    "countryFlagImg": "https://flagcdn.com/w320/np.png",
+    "countryBorders": ["CHN", "IND"]
+  },
+  "GUF": {
+    "Name": "French Guiana",
+    "capital": "Cayenne",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": 4.0,
+    "longitude": -53.0,
+    "Area": 83534.0,
+    "population": 254541,
+    "countryFlagImg": "https://flagcdn.com/w320/gf.png",
+    "countryBorders": ["BRA", "SUR"]
+  },
+  "MYS": {
+    "Name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "currency": { "MYR": { "name": "Malaysian ringgit", "symbol": "RM" } },
+    "languages": { "eng": "English", "msa": "Malay" },
+    "latitude": 2.5,
+    "longitude": 112.5,
+    "Area": 330803.0,
+    "population": 32365998,
+    "countryFlagImg": "https://flagcdn.com/w320/my.png",
+    "countryBorders": ["BRN", "IDN", "THA"]
+  },
+  "RWA": {
+    "Name": "Rwanda",
+    "capital": "Kigali",
+    "currency": { "RWF": { "name": "Rwandan franc", "symbol": "Fr" } },
+    "languages": { "eng": "English", "fra": "French", "kin": "Kinyarwanda" },
+    "latitude": -2.0,
+    "longitude": 30.0,
+    "Area": 26338.0,
+    "population": 12952209,
+    "countryFlagImg": "https://flagcdn.com/w320/rw.png",
+    "countryBorders": ["BDI", "COD", "TZA", "UGA"]
+  },
+  "THA": {
+    "Name": "Thailand",
+    "capital": "Bangkok",
+    "currency": { "THB": { "name": "Thai baht", "symbol": "\u0e3f" } },
+    "languages": { "tha": "Thai" },
+    "latitude": 15.0,
+    "longitude": 100.0,
+    "Area": 513120.0,
+    "population": 69799978,
+    "countryFlagImg": "https://flagcdn.com/w320/th.png",
+    "countryBorders": ["MMR", "KHM", "LAO", "MYS"]
+  },
+  "JOR": {
+    "Name": "Jordan",
+    "capital": "Amman",
+    "currency": {
+      "JOD": { "name": "Jordanian dinar", "symbol": "\u062f.\u0627" }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 31.0,
+    "longitude": 36.0,
+    "Area": 89342.0,
+    "population": 10203140,
+    "countryFlagImg": "https://flagcdn.com/w320/jo.png",
+    "countryBorders": ["IRQ", "ISR", "PSE", "SAU", "SYR"]
+  },
+  "CHE": {
+    "Name": "Switzerland",
+    "capital": "Bern",
+    "currency": { "CHF": { "name": "Swiss franc", "symbol": "Fr." } },
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "latitude": 47.0,
+    "longitude": 8.0,
+    "Area": 41284.0,
+    "population": 8654622,
+    "countryFlagImg": "https://flagcdn.com/w320/ch.png",
+    "countryBorders": ["AUT", "FRA", "ITA", "LIE", "DEU"]
+  },
+  "COM": {
+    "Name": "Comoros",
+    "capital": "Moroni",
+    "currency": { "KMF": { "name": "Comorian franc", "symbol": "Fr" } },
+    "languages": { "ara": "Arabic", "fra": "French", "zdj": "Comorian" },
+    "latitude": -12.16666666,
+    "longitude": 44.25,
+    "Area": 1862.0,
+    "population": 869595,
+    "countryFlagImg": "https://flagcdn.com/w320/km.png",
+    "countryBorders": []
+  },
+  "UNK": {
+    "Name": "Kosovo",
+    "capital": "Pristina",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "sqi": "Albanian", "srp": "Serbian" },
+    "latitude": 42.666667,
+    "longitude": 21.166667,
+    "Area": 10908.0,
+    "population": 1775378,
+    "countryFlagImg": "https://flagcdn.com/w320/xk.png",
+    "countryBorders": ["ALB", "MKD", "MNE", "SRB"]
+  },
+  "IMN": {
+    "Name": "Isle of Man",
+    "capital": "Douglas",
+    "currency": {
+      "GBP": { "name": "British pound", "symbol": "\u00a3" },
+      "IMP": { "name": "Manx pound", "symbol": "\u00a3" }
+    },
+    "languages": { "eng": "English", "glv": "Manx" },
+    "latitude": 54.25,
+    "longitude": -4.5,
+    "Area": 572.0,
+    "population": 85032,
+    "countryFlagImg": "https://flagcdn.com/w320/im.png",
+    "countryBorders": []
+  },
+  "MNE": {
+    "Name": "Montenegro",
+    "capital": "Podgorica",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "cnr": "Montenegrin" },
+    "latitude": 42.5,
+    "longitude": 19.3,
+    "Area": 13812.0,
+    "population": 621718,
+    "countryFlagImg": "https://flagcdn.com/w320/me.png",
+    "countryBorders": ["ALB", "BIH", "HRV", "UNK", "SRB"]
+  },
+  "HKG": {
+    "Name": "Hong Kong",
+    "capital": "City of Victoria",
+    "currency": { "HKD": { "name": "Hong Kong dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "zho": "Chinese" },
+    "latitude": 22.267,
+    "longitude": 114.188,
+    "Area": 1104.0,
+    "population": 7500700,
+    "countryFlagImg": "https://flagcdn.com/w320/hk.png",
+    "countryBorders": ["CHN"]
+  },
+  "JEY": {
+    "Name": "Jersey",
+    "capital": "Saint Helier",
+    "currency": {
+      "GBP": { "name": "British pound", "symbol": "\u00a3" },
+      "JEP": { "name": "Jersey pound", "symbol": "\u00a3" }
+    },
+    "languages": { "eng": "English", "fra": "French", "nrf": "J\u00e8rriais" },
+    "latitude": 49.25,
+    "longitude": -2.16666666,
+    "Area": 116.0,
+    "population": 100800,
+    "countryFlagImg": "https://flagcdn.com/w320/je.png",
+    "countryBorders": []
+  },
+  "TJK": {
+    "Name": "Tajikistan",
+    "capital": "Dushanbe",
+    "currency": {
+      "TJS": { "name": "Tajikistani somoni", "symbol": "\u0405\u041c" }
+    },
+    "languages": { "rus": "Russian", "tgk": "Tajik" },
+    "latitude": 39.0,
+    "longitude": 71.0,
+    "Area": 143100.0,
+    "population": 9537642,
+    "countryFlagImg": "https://flagcdn.com/w320/tj.png",
+    "countryBorders": ["AFG", "CHN", "KGZ", "UZB"]
+  },
+  "BGR": {
+    "Name": "Bulgaria",
+    "capital": "Sofia",
+    "currency": {
+      "BGN": { "name": "Bulgarian lev", "symbol": "\u043b\u0432" }
+    },
+    "languages": { "bul": "Bulgarian" },
+    "latitude": 43.0,
+    "longitude": 25.0,
+    "Area": 110879.0,
+    "population": 6927288,
+    "countryFlagImg": "https://flagcdn.com/w320/bg.png",
+    "countryBorders": ["GRC", "MKD", "ROU", "SRB", "TUR"]
+  },
+  "EGY": {
+    "Name": "Egypt",
+    "capital": "Cairo",
+    "currency": { "EGP": { "name": "Egyptian pound", "symbol": "\u00a3" } },
+    "languages": { "ara": "Arabic" },
+    "latitude": 27.0,
+    "longitude": 30.0,
+    "Area": 1002450.0,
+    "population": 102334403,
+    "countryFlagImg": "https://flagcdn.com/w320/eg.png",
+    "countryBorders": ["ISR", "LBY", "PSE", "SDN"]
+  },
+  "MWI": {
+    "Name": "Malawi",
+    "capital": "Lilongwe",
+    "currency": { "MWK": { "name": "Malawian kwacha", "symbol": "MK" } },
+    "languages": { "eng": "English", "nya": "Chewa" },
+    "latitude": -13.5,
+    "longitude": 34.0,
+    "Area": 118484.0,
+    "population": 19129955,
+    "countryFlagImg": "https://flagcdn.com/w320/mw.png",
+    "countryBorders": ["MOZ", "TZA", "ZMB"]
+  },
+  "CPV": {
+    "Name": "Cape Verde",
+    "capital": "Praia",
+    "currency": { "CVE": { "name": "Cape Verdean escudo", "symbol": "Esc" } },
+    "languages": { "por": "Portuguese" },
+    "latitude": 16.5388,
+    "longitude": 23.0418,
+    "Area": 4033.0,
+    "population": 555988,
+    "countryFlagImg": "https://flagcdn.com/w320/cv.png",
+    "countryBorders": []
+  },
+  "BEN": {
+    "Name": "Benin",
+    "capital": "Porto-Novo",
+    "currency": { "XOF": { "name": "West African CFA franc", "symbol": "Fr" } },
+    "languages": { "fra": "French" },
+    "latitude": 9.5,
+    "longitude": 2.25,
+    "Area": 112622.0,
+    "population": 12123198,
+    "countryFlagImg": "https://flagcdn.com/w320/bj.png",
+    "countryBorders": ["BFA", "NER", "NGA", "TGO"]
+  },
+  "MAR": {
+    "Name": "Morocco",
+    "capital": "Rabat",
+    "currency": {
+      "MAD": { "name": "Moroccan dirham", "symbol": "\u062f.\u0645." }
+    },
+    "languages": { "ara": "Arabic", "ber": "Berber" },
+    "latitude": 32.0,
+    "longitude": -5.0,
+    "Area": 446550.0,
+    "population": 36910558,
+    "countryFlagImg": "https://flagcdn.com/w320/ma.png",
+    "countryBorders": ["DZA", "ESH", "ESP"]
+  },
+  "IRL": {
+    "Name": "Ireland",
+    "capital": "Dublin",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "eng": "English", "gle": "Irish" },
+    "latitude": 53.0,
+    "longitude": -8.0,
+    "Area": 70273.0,
+    "population": 4994724,
+    "countryFlagImg": "https://flagcdn.com/w320/ie.png",
+    "countryBorders": ["GBR"]
+  },
+  "MDA": {
+    "Name": "Moldova",
+    "capital": "Chi\u0219in\u0103u",
+    "currency": { "MDL": { "name": "Moldovan leu", "symbol": "L" } },
+    "languages": { "ron": "Romanian" },
+    "latitude": 47.0,
+    "longitude": 29.0,
+    "Area": 33846.0,
+    "population": 2617820,
+    "countryFlagImg": "https://flagcdn.com/w320/md.png",
+    "countryBorders": ["ROU", "UKR"]
+  },
+  "DNK": {
+    "Name": "Denmark",
+    "capital": "Copenhagen",
+    "currency": { "DKK": { "name": "Danish krone", "symbol": "kr" } },
+    "languages": { "dan": "Danish" },
+    "latitude": 56.0,
+    "longitude": 10.0,
+    "Area": 43094.0,
+    "population": 5831404,
+    "countryFlagImg": "https://flagcdn.com/w320/dk.png",
+    "countryBorders": ["DEU"]
+  },
+  "TKM": {
+    "Name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "currency": { "TMT": { "name": "Turkmenistan manat", "symbol": "m" } },
+    "languages": { "rus": "Russian", "tuk": "Turkmen" },
+    "latitude": 40.0,
+    "longitude": 60.0,
+    "Area": 488100.0,
+    "population": 6031187,
+    "countryFlagImg": "https://flagcdn.com/w320/tm.png",
+    "countryBorders": ["AFG", "IRN", "KAZ", "UZB"]
+  },
+  "FSM": {
+    "Name": "Micronesia",
+    "capital": "Palikir",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 6.91666666,
+    "longitude": 158.25,
+    "Area": 702.0,
+    "population": 115021,
+    "countryFlagImg": "https://flagcdn.com/w320/fm.png",
+    "countryBorders": []
+  },
+  "MCO": {
+    "Name": "Monaco",
+    "capital": "Monaco",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": 43.73333333,
+    "longitude": 7.4,
+    "Area": 2.02,
+    "population": 39244,
+    "countryFlagImg": "https://flagcdn.com/w320/mc.png",
+    "countryBorders": ["FRA"]
+  },
+  "BRB": {
+    "Name": "Barbados",
+    "capital": "Bridgetown",
+    "currency": { "BBD": { "name": "Barbadian dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 13.16666666,
+    "longitude": -59.53333333,
+    "Area": 430.0,
+    "population": 287371,
+    "countryFlagImg": "https://flagcdn.com/w320/bb.png",
+    "countryBorders": []
+  },
+  "DZA": {
+    "Name": "Algeria",
+    "capital": "Algiers",
+    "currency": {
+      "DZD": { "name": "Algerian dinar", "symbol": "\u062f.\u062c" }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 28.0,
+    "longitude": 3.0,
+    "Area": 2381741.0,
+    "population": 44700000,
+    "countryFlagImg": "https://flagcdn.com/w320/dz.png",
+    "countryBorders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"]
+  },
+  "ATF": {
+    "Name": "French Southern and Antarctic Lands",
+    "capital": "Port-aux-Fran\u00e7ais",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": -49.25,
+    "longitude": 69.167,
+    "Area": 7747.0,
+    "population": 400,
+    "countryFlagImg": "https://flagcdn.com/w320/tf.png",
+    "countryBorders": []
+  },
+  "ERI": {
+    "Name": "Eritrea",
+    "capital": "Asmara",
+    "currency": { "ERN": { "name": "Eritrean nakfa", "symbol": "Nfk" } },
+    "languages": { "ara": "Arabic", "eng": "English", "tir": "Tigrinya" },
+    "latitude": 15.0,
+    "longitude": 39.0,
+    "Area": 117600.0,
+    "population": 5352000,
+    "countryFlagImg": "https://flagcdn.com/w320/er.png",
+    "countryBorders": ["DJI", "ETH", "SDN"]
+  },
+  "LSO": {
+    "Name": "Lesotho",
+    "capital": "Maseru",
+    "currency": {
+      "LSL": { "name": "Lesotho loti", "symbol": "L" },
+      "ZAR": { "name": "South African rand", "symbol": "R" }
+    },
+    "languages": { "eng": "English", "sot": "Sotho" },
+    "latitude": -29.5,
+    "longitude": 28.5,
+    "Area": 30355.0,
+    "population": 2142252,
+    "countryFlagImg": "https://flagcdn.com/w320/ls.png",
+    "countryBorders": ["ZAF"]
+  },
+  "TZA": {
+    "Name": "Tanzania",
+    "capital": "Dodoma",
+    "currency": { "TZS": { "name": "Tanzanian shilling", "symbol": "Sh" } },
+    "languages": { "eng": "English", "swa": "Swahili" },
+    "latitude": -6.0,
+    "longitude": 35.0,
+    "Area": 945087.0,
+    "population": 59734213,
+    "countryFlagImg": "https://flagcdn.com/w320/tz.png",
+    "countryBorders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"]
+  },
+  "MLI": {
+    "Name": "Mali",
+    "capital": "Bamako",
+    "currency": { "XOF": { "name": "West African CFA franc", "symbol": "Fr" } },
+    "languages": { "fra": "French" },
+    "latitude": 17.0,
+    "longitude": -4.0,
+    "Area": 1240192.0,
+    "population": 20250834,
+    "countryFlagImg": "https://flagcdn.com/w320/ml.png",
+    "countryBorders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"]
+  },
+  "NER": {
+    "Name": "Niger",
+    "capital": "Niamey",
+    "currency": { "XOF": { "name": "West African CFA franc", "symbol": "Fr" } },
+    "languages": { "fra": "French" },
+    "latitude": 16.0,
+    "longitude": 8.0,
+    "Area": 1267000.0,
+    "population": 24206636,
+    "countryFlagImg": "https://flagcdn.com/w320/ne.png",
+    "countryBorders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"]
+  },
+  "AND": {
+    "Name": "Andorra",
+    "capital": "Andorra la Vella",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "cat": "Catalan" },
+    "latitude": 42.5,
+    "longitude": 1.5,
+    "Area": 468.0,
+    "population": 77265,
+    "countryFlagImg": "https://flagcdn.com/w320/ad.png",
+    "countryBorders": ["FRA", "ESP"]
+  },
+  "GBR": {
+    "Name": "United Kingdom",
+    "capital": "London",
+    "currency": { "GBP": { "name": "British pound", "symbol": "\u00a3" } },
+    "languages": { "eng": "English" },
+    "latitude": 54.0,
+    "longitude": -2.0,
+    "Area": 242900.0,
+    "population": 67215293,
+    "countryFlagImg": "https://flagcdn.com/w320/gb.png",
+    "countryBorders": ["IRL"]
+  },
+  "DEU": {
+    "Name": "Germany",
+    "capital": "Berlin",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "deu": "German" },
+    "latitude": 51.0,
+    "longitude": 9.0,
+    "Area": 357114.0,
+    "population": 83240525,
+    "countryFlagImg": "https://flagcdn.com/w320/de.png",
+    "countryBorders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ]
+  },
+  "VIR": {
+    "Name": "United States Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 18.35,
+    "longitude": -64.933333,
+    "Area": 347.0,
+    "population": 106290,
+    "countryFlagImg": "https://flagcdn.com/w320/vi.png",
+    "countryBorders": []
+  },
+  "SOM": {
+    "Name": "Somalia",
+    "capital": "Mogadishu",
+    "currency": { "SOS": { "name": "Somali shilling", "symbol": "Sh" } },
+    "languages": { "ara": "Arabic", "som": "Somali" },
+    "latitude": 10.0,
+    "longitude": 49.0,
+    "Area": 637657.0,
+    "population": 15893219,
+    "countryFlagImg": "https://flagcdn.com/w320/so.png",
+    "countryBorders": ["DJI", "ETH", "KEN"]
+  },
+  "SXM": {
+    "Name": "Sint Maarten",
+    "capital": "Philipsburg",
+    "currency": {
+      "ANG": { "name": "Netherlands Antillean guilder", "symbol": "\u0192" }
+    },
+    "languages": { "eng": "English", "fra": "French", "nld": "Dutch" },
+    "latitude": 18.033333,
+    "longitude": -63.05,
+    "Area": 34.0,
+    "population": 40812,
+    "countryFlagImg": "https://flagcdn.com/w320/sx.png",
+    "countryBorders": ["MAF"]
+  },
+  "CMR": {
+    "Name": "Cameroon",
+    "capital": "Yaound\u00e9",
+    "currency": {
+      "XAF": { "name": "Central African CFA franc", "symbol": "Fr" }
+    },
+    "languages": { "eng": "English", "fra": "French" },
+    "latitude": 6.0,
+    "longitude": 12.0,
+    "Area": 475442.0,
+    "population": 26545864,
+    "countryFlagImg": "https://flagcdn.com/w320/cm.png",
+    "countryBorders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"]
+  },
+  "DOM": {
+    "Name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "currency": { "DOP": { "name": "Dominican peso", "symbol": "$" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": 19.0,
+    "longitude": -70.66666666,
+    "Area": 48671.0,
+    "population": 10847904,
+    "countryFlagImg": "https://flagcdn.com/w320/do.png",
+    "countryBorders": ["HTI"]
+  },
+  "GIN": {
+    "Name": "Guinea",
+    "capital": "Conakry",
+    "currency": { "GNF": { "name": "Guinean franc", "symbol": "Fr" } },
+    "languages": { "fra": "French" },
+    "latitude": 11.0,
+    "longitude": -10.0,
+    "Area": 245857.0,
+    "population": 13132792,
+    "countryFlagImg": "https://flagcdn.com/w320/gn.png",
+    "countryBorders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"]
+  },
+  "NAM": {
+    "Name": "Namibia",
+    "capital": "Windhoek",
+    "currency": {
+      "NAD": { "name": "Namibian dollar", "symbol": "$" },
+      "ZAR": { "name": "South African rand", "symbol": "R" }
+    },
+    "languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    },
+    "latitude": -22.0,
+    "longitude": 17.0,
+    "Area": 825615.0,
+    "population": 2540916,
+    "countryFlagImg": "https://flagcdn.com/w320/na.png",
+    "countryBorders": ["AGO", "BWA", "ZAF", "ZMB"]
+  },
+  "MSR": {
+    "Name": "Montserrat",
+    "capital": "Plymouth",
+    "currency": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 16.75,
+    "longitude": -62.2,
+    "Area": 102.0,
+    "population": 4922,
+    "countryFlagImg": "https://flagcdn.com/w320/ms.png",
+    "countryBorders": []
+  },
+  "SGS": {
+    "Name": "South Georgia",
+    "capital": "King Edward Point",
+    "currency": { "SHP": { "name": "Saint Helena pound", "symbol": "\u00a3" } },
+    "languages": { "eng": "English" },
+    "latitude": -54.5,
+    "longitude": -37.0,
+    "Area": 3903.0,
+    "population": 30,
+    "countryFlagImg": "https://flagcdn.com/w320/gs.png",
+    "countryBorders": []
+  },
+  "SEN": {
+    "Name": "Senegal",
+    "capital": "Dakar",
+    "currency": { "XOF": { "name": "West African CFA franc", "symbol": "Fr" } },
+    "languages": { "fra": "French" },
+    "latitude": 14.0,
+    "longitude": -14.0,
+    "Area": 196722.0,
+    "population": 16743930,
+    "countryFlagImg": "https://flagcdn.com/w320/sn.png",
+    "countryBorders": ["GMB", "GIN", "GNB", "MLI", "MRT"]
+  },
+  "SLB": {
+    "Name": "Solomon Islands",
+    "capital": "Honiara",
+    "currency": { "SBD": { "name": "Solomon Islands dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": -8.0,
+    "longitude": 159.0,
+    "Area": 28896.0,
+    "population": 686878,
+    "countryFlagImg": "https://flagcdn.com/w320/sb.png",
+    "countryBorders": []
+  },
+  "FRA": {
+    "Name": "France",
+    "capital": "Paris",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": 46.0,
+    "longitude": 2.0,
+    "Area": 551695.0,
+    "population": 67391582,
+    "countryFlagImg": "https://flagcdn.com/w320/fr.png",
+    "countryBorders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"]
+  },
+  "SHN": {
+    "Name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "currency": {
+      "GBP": { "name": "Pound sterling", "symbol": "\u00a3" },
+      "SHP": { "name": "Saint Helena pound", "symbol": "\u00a3" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": -15.95,
+    "longitude": -5.72,
+    "Area": 394.0,
+    "population": 53192,
+    "countryFlagImg": "https://flagcdn.com/w320/sh.png",
+    "countryBorders": []
+  },
+  "ARG": {
+    "Name": "Argentina",
+    "capital": "Buenos Aires",
+    "currency": { "ARS": { "name": "Argentine peso", "symbol": "$" } },
+    "languages": { "grn": "Guaran\u00ed", "spa": "Spanish" },
+    "latitude": -34.0,
+    "longitude": -64.0,
+    "Area": 2780400.0,
+    "population": 45376763,
+    "countryFlagImg": "https://flagcdn.com/w320/ar.png",
+    "countryBorders": ["BOL", "BRA", "CHL", "PRY", "URY"]
+  },
+  "BIH": {
+    "Name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "currency": {
+      "BAM": { "name": "Bosnia and Herzegovina convertible mark" }
+    },
+    "languages": { "bos": "Bosnian", "hrv": "Croatian", "srp": "Serbian" },
+    "latitude": 44.0,
+    "longitude": 18.0,
+    "Area": 51209.0,
+    "population": 3280815,
+    "countryFlagImg": "https://flagcdn.com/w320/ba.png",
+    "countryBorders": ["HRV", "MNE", "SRB"]
+  },
+  "AIA": {
+    "Name": "Anguilla",
+    "capital": "The Valley",
+    "currency": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 18.25,
+    "longitude": -63.16666666,
+    "Area": 91.0,
+    "population": 13452,
+    "countryFlagImg": "https://flagcdn.com/w320/ai.png",
+    "countryBorders": []
+  },
+  "GGY": {
+    "Name": "Guernsey",
+    "capital": "St. Peter Port",
+    "currency": {
+      "GBP": { "name": "British pound", "symbol": "\u00a3" },
+      "GGP": { "name": "Guernsey pound", "symbol": "\u00a3" }
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nfr": "Guern\u00e9siais"
+    },
+    "latitude": 49.46666666,
+    "longitude": -2.58333333,
+    "Area": 78.0,
+    "population": 62999,
+    "countryFlagImg": "https://flagcdn.com/w320/gg.png",
+    "countryBorders": []
+  },
+  "DJI": {
+    "Name": "Djibouti",
+    "capital": "Djibouti",
+    "currency": { "DJF": { "name": "Djiboutian franc", "symbol": "Fr" } },
+    "languages": { "ara": "Arabic", "fra": "French" },
+    "latitude": 11.5,
+    "longitude": 43.0,
+    "Area": 23200.0,
+    "population": 988002,
+    "countryFlagImg": "https://flagcdn.com/w320/dj.png",
+    "countryBorders": ["ERI", "ETH", "SOM"]
+  },
+  "KNA": {
+    "Name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "currency": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 17.33333333,
+    "longitude": -62.75,
+    "Area": 261.0,
+    "population": 53192,
+    "countryFlagImg": "https://flagcdn.com/w320/kn.png",
+    "countryBorders": []
+  },
+  "SYR": {
+    "Name": "Syria",
+    "capital": "Damascus",
+    "currency": { "SYP": { "name": "Syrian pound", "symbol": "\u00a3" } },
+    "languages": { "ara": "Arabic" },
+    "latitude": 35.0,
+    "longitude": 38.0,
+    "Area": 185180.0,
+    "population": 17500657,
+    "countryFlagImg": "https://flagcdn.com/w320/sy.png",
+    "countryBorders": ["IRQ", "ISR", "JOR", "LBN", "TUR"]
+  },
+  "PRI": {
+    "Name": "Puerto Rico",
+    "capital": "San Juan",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "spa": "Spanish" },
+    "latitude": 18.25,
+    "longitude": -66.5,
+    "Area": 8870.0,
+    "population": 3194034,
+    "countryFlagImg": "https://flagcdn.com/w320/pr.png",
+    "countryBorders": []
+  },
+  "PER": {
+    "Name": "Peru",
+    "capital": "Lima",
+    "currency": { "PEN": { "name": "Peruvian sol", "symbol": "S/ " } },
+    "languages": { "aym": "Aymara", "que": "Quechua", "spa": "Spanish" },
+    "latitude": -10.0,
+    "longitude": -76.0,
+    "Area": 1285216.0,
+    "population": 32971846,
+    "countryFlagImg": "https://flagcdn.com/w320/pe.png",
+    "countryBorders": ["BOL", "BRA", "CHL", "COL", "ECU"]
+  },
+  "SMR": {
+    "Name": "San Marino",
+    "capital": "City of San Marino",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "ita": "Italian" },
+    "latitude": 43.76666666,
+    "longitude": 12.41666666,
+    "Area": 61.0,
+    "population": 33938,
+    "countryFlagImg": "https://flagcdn.com/w320/sm.png",
+    "countryBorders": ["ITA"]
+  },
+  "AUS": {
+    "Name": "Australia",
+    "capital": "Canberra",
+    "currency": { "AUD": { "name": "Australian dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": -27.0,
+    "longitude": 133.0,
+    "Area": 7692024.0,
+    "population": 25687041,
+    "countryFlagImg": "https://flagcdn.com/w320/au.png",
+    "countryBorders": []
+  },
+  "NCL": {
+    "Name": "New Caledonia",
+    "capital": "Noum\u00e9a",
+    "currency": { "XPF": { "name": "CFP franc", "symbol": "\u20a3" } },
+    "languages": { "fra": "French" },
+    "latitude": -21.5,
+    "longitude": 165.5,
+    "Area": 18575.0,
+    "population": 271960,
+    "countryFlagImg": "https://flagcdn.com/w320/nc.png",
+    "countryBorders": []
+  },
+  "JAM": {
+    "Name": "Jamaica",
+    "capital": "Kingston",
+    "currency": { "JMD": { "name": "Jamaican dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "jam": "Jamaican Patois" },
+    "latitude": 18.25,
+    "longitude": -77.5,
+    "Area": 10991.0,
+    "population": 2961161,
+    "countryFlagImg": "https://flagcdn.com/w320/jm.png",
+    "countryBorders": []
+  },
+  "KAZ": {
+    "Name": "Kazakhstan",
+    "capital": "Nur-Sultan",
+    "currency": { "KZT": { "name": "Kazakhstani tenge", "symbol": "\u20b8" } },
+    "languages": { "kaz": "Kazakh", "rus": "Russian" },
+    "latitude": 48.0196,
+    "longitude": 66.9237,
+    "Area": 2724900.0,
+    "population": 18754440,
+    "countryFlagImg": "https://flagcdn.com/w320/kz.png",
+    "countryBorders": ["CHN", "KGZ", "RUS", "TKM", "UZB"]
+  },
+  "SLE": {
+    "Name": "Sierra Leone",
+    "capital": "Freetown",
+    "currency": { "SLL": { "name": "Sierra Leonean leone", "symbol": "Le" } },
+    "languages": { "eng": "English" },
+    "latitude": 8.5,
+    "longitude": -11.5,
+    "Area": 71740.0,
+    "population": 7976985,
+    "countryFlagImg": "https://flagcdn.com/w320/sl.png",
+    "countryBorders": ["GIN", "LBR"]
+  },
+  "PLW": {
+    "Name": "Palau",
+    "capital": "Ngerulmud",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "pau": "Palauan" },
+    "latitude": 7.5,
+    "longitude": 134.5,
+    "Area": 459.0,
+    "population": 18092,
+    "countryFlagImg": "https://flagcdn.com/w320/pw.png",
+    "countryBorders": []
+  },
+  "KOR": {
+    "Name": "South Korea",
+    "capital": "Seoul",
+    "currency": { "KRW": { "name": "South Korean won", "symbol": "\u20a9" } },
+    "languages": { "kor": "Korean" },
+    "latitude": 37.0,
+    "longitude": 127.5,
+    "Area": 100210.0,
+    "population": 51780579,
+    "countryFlagImg": "https://flagcdn.com/w320/kr.png",
+    "countryBorders": ["PRK"]
+  },
+  "SPM": {
+    "Name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": 46.83333333,
+    "longitude": -56.33333333,
+    "Area": 242.0,
+    "population": 6069,
+    "countryFlagImg": "https://flagcdn.com/w320/pm.png",
+    "countryBorders": []
+  },
+  "BLZ": {
+    "Name": "Belize",
+    "capital": "Belmopan",
+    "currency": { "BZD": { "name": "Belize dollar", "symbol": "$" } },
+    "languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "latitude": 17.25,
+    "longitude": -88.75,
+    "Area": 22966.0,
+    "population": 397621,
+    "countryFlagImg": "https://flagcdn.com/w320/bz.png",
+    "countryBorders": ["GTM", "MEX"]
+  },
+  "PNG": {
+    "Name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "currency": { "PGK": { "name": "Papua New Guinean kina", "symbol": "K" } },
+    "languages": { "eng": "English", "hmo": "Hiri Motu", "tpi": "Tok Pisin" },
+    "latitude": -6.0,
+    "longitude": 147.0,
+    "Area": 462840.0,
+    "population": 8947027,
+    "countryFlagImg": "https://flagcdn.com/w320/pg.png",
+    "countryBorders": ["IDN"]
+  },
+  "ISL": {
+    "Name": "Iceland",
+    "capital": "Reykjavik",
+    "currency": { "ISK": { "name": "Icelandic kr\u00f3na", "symbol": "kr" } },
+    "languages": { "isl": "Icelandic" },
+    "latitude": 65.0,
+    "longitude": -18.0,
+    "Area": 103000.0,
+    "population": 366425,
+    "countryFlagImg": "https://flagcdn.com/w320/is.png",
+    "countryBorders": []
+  },
+  "ASM": {
+    "Name": "American Samoa",
+    "capital": "Pago Pago",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "smo": "Samoan" },
+    "latitude": -14.33333333,
+    "longitude": -170.0,
+    "Area": 199.0,
+    "population": 55197,
+    "countryFlagImg": "https://flagcdn.com/w320/as.png",
+    "countryBorders": []
+  },
+  "BFA": {
+    "Name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "currency": { "XOF": { "name": "West African CFA franc", "symbol": "Fr" } },
+    "languages": { "fra": "French" },
+    "latitude": 13.0,
+    "longitude": -2.0,
+    "Area": 272967.0,
+    "population": 20903278,
+    "countryFlagImg": "https://flagcdn.com/w320/bf.png",
+    "countryBorders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"]
+  },
+  "PRT": {
+    "Name": "Portugal",
+    "capital": "Lisbon",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "por": "Portuguese" },
+    "latitude": 39.5,
+    "longitude": -8.0,
+    "Area": 92090.0,
+    "population": 10305564,
+    "countryFlagImg": "https://flagcdn.com/w320/pt.png",
+    "countryBorders": ["ESP"]
+  },
+  "TWN": {
+    "Name": "Taiwan",
+    "capital": "Taipei",
+    "currency": { "TWD": { "name": "New Taiwan dollar", "symbol": "$" } },
+    "languages": { "zho": "Chinese" },
+    "latitude": 23.5,
+    "longitude": 121.0,
+    "Area": 36193.0,
+    "population": 23503349,
+    "countryFlagImg": "https://flagcdn.com/w320/tw.png",
+    "countryBorders": []
+  },
+  "JPN": {
+    "Name": "Japan",
+    "capital": "Tokyo",
+    "currency": { "JPY": { "name": "Japanese yen", "symbol": "\u00a5" } },
+    "languages": { "jpn": "Japanese" },
+    "latitude": 36.0,
+    "longitude": 138.0,
+    "Area": 377930.0,
+    "population": 125836021,
+    "countryFlagImg": "https://flagcdn.com/w320/jp.png",
+    "countryBorders": []
+  },
+  "CHN": {
+    "Name": "China",
+    "capital": "Beijing",
+    "currency": { "CNY": { "name": "Chinese yuan", "symbol": "\u00a5" } },
+    "languages": { "zho": "Chinese" },
+    "latitude": 35.0,
+    "longitude": 105.0,
+    "Area": 9706961.0,
+    "population": 1402112000,
+    "countryFlagImg": "https://flagcdn.com/w320/cn.png",
+    "countryBorders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ]
+  },
+  "LBN": {
+    "Name": "Lebanon",
+    "capital": "Beirut",
+    "currency": {
+      "LBP": { "name": "Lebanese pound", "symbol": "\u0644.\u0644" }
+    },
+    "languages": { "ara": "Arabic", "fra": "French" },
+    "latitude": 33.83333333,
+    "longitude": 35.83333333,
+    "Area": 10452.0,
+    "population": 6825442,
+    "countryFlagImg": "https://flagcdn.com/w320/lb.png",
+    "countryBorders": ["ISR", "SYR"]
+  },
+  "LKA": {
+    "Name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "currency": {
+      "LKR": { "name": "Sri Lankan rupee", "symbol": "Rs  \u0dbb\u0dd4" }
+    },
+    "languages": { "sin": "Sinhala", "tam": "Tamil" },
+    "latitude": 7.0,
+    "longitude": 81.0,
+    "Area": 65610.0,
+    "population": 21919000,
+    "countryFlagImg": "https://flagcdn.com/w320/lk.png",
+    "countryBorders": ["IND"]
+  },
+  "GTM": {
+    "Name": "Guatemala",
+    "capital": "Guatemala City",
+    "currency": { "GTQ": { "name": "Guatemalan quetzal", "symbol": "Q" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": 15.5,
+    "longitude": -90.25,
+    "Area": 108889.0,
+    "population": 16858333,
+    "countryFlagImg": "https://flagcdn.com/w320/gt.png",
+    "countryBorders": ["BLZ", "SLV", "HND", "MEX"]
+  },
+  "SRB": {
+    "Name": "Serbia",
+    "capital": "Belgrade",
+    "currency": {
+      "RSD": { "name": "Serbian dinar", "symbol": "\u0434\u0438\u043d." }
+    },
+    "languages": { "srp": "Serbian" },
+    "latitude": 44.0,
+    "longitude": 21.0,
+    "Area": 88361.0,
+    "population": 6908224,
+    "countryFlagImg": "https://flagcdn.com/w320/rs.png",
+    "countryBorders": ["BIH", "BGR", "HRV", "HUN", "UNK", "MKD", "MNE", "ROU"]
+  },
+  "MDG": {
+    "Name": "Madagascar",
+    "capital": "Antananarivo",
+    "currency": { "MGA": { "name": "Malagasy ariary", "symbol": "Ar" } },
+    "languages": { "fra": "French", "mlg": "Malagasy" },
+    "latitude": -20.0,
+    "longitude": 47.0,
+    "Area": 587041.0,
+    "population": 27691019,
+    "countryFlagImg": "https://flagcdn.com/w320/mg.png",
+    "countryBorders": []
+  },
+  "SWZ": {
+    "Name": "Eswatini",
+    "capital": "Mbabane",
+    "currency": {
+      "SZL": { "name": "Swazi lilangeni", "symbol": "L" },
+      "ZAR": { "name": "South African rand", "symbol": "R" }
+    },
+    "languages": { "eng": "English", "ssw": "Swazi" },
+    "latitude": -26.5,
+    "longitude": 31.5,
+    "Area": 17364.0,
+    "population": 1160164,
+    "countryFlagImg": "https://flagcdn.com/w320/sz.png",
+    "countryBorders": ["MOZ", "ZAF"]
+  },
+  "ROU": {
+    "Name": "Romania",
+    "capital": "Bucharest",
+    "currency": { "RON": { "name": "Romanian leu", "symbol": "lei" } },
+    "languages": { "ron": "Romanian" },
+    "latitude": 46.0,
+    "longitude": 25.0,
+    "Area": 238391.0,
+    "population": 19286123,
+    "countryFlagImg": "https://flagcdn.com/w320/ro.png",
+    "countryBorders": ["BGR", "HUN", "MDA", "SRB", "UKR"]
+  },
+  "ATG": {
+    "Name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "currency": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 17.05,
+    "longitude": -61.8,
+    "Area": 442.0,
+    "population": 97928,
+    "countryFlagImg": "https://flagcdn.com/w320/ag.png",
+    "countryBorders": []
+  },
+  "CUW": {
+    "Name": "Cura\u00e7ao",
+    "capital": "Willemstad",
+    "currency": {
+      "ANG": { "name": "Netherlands Antillean guilder", "symbol": "\u0192" }
+    },
+    "languages": { "eng": "English", "nld": "Dutch", "pap": "Papiamento" },
+    "latitude": 12.116667,
+    "longitude": -68.933333,
+    "Area": 444.0,
+    "population": 155014,
+    "countryFlagImg": "https://flagcdn.com/w320/cw.png",
+    "countryBorders": []
+  },
+  "ZMB": {
+    "Name": "Zambia",
+    "capital": "Lusaka",
+    "currency": { "ZMW": { "name": "Zambian kwacha", "symbol": "ZK" } },
+    "languages": { "eng": "English" },
+    "latitude": -15.0,
+    "longitude": 30.0,
+    "Area": 752612.0,
+    "population": 18383956,
+    "countryFlagImg": "https://flagcdn.com/w320/zm.png",
+    "countryBorders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"]
+  },
+  "ZWE": {
+    "Name": "Zimbabwe",
+    "capital": "Harare",
+    "currency": { "ZWL": { "name": "Zimbabwean dollar", "symbol": "$" } },
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    },
+    "latitude": -20.0,
+    "longitude": 30.0,
+    "Area": 390757.0,
+    "population": 14862927,
+    "countryFlagImg": "https://flagcdn.com/w320/zw.png",
+    "countryBorders": ["BWA", "MOZ", "ZAF", "ZMB"]
+  },
+  "TUN": {
+    "Name": "Tunisia",
+    "capital": "Tunis",
+    "currency": {
+      "TND": { "name": "Tunisian dinar", "symbol": "\u062f.\u062a" }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 34.0,
+    "longitude": 9.0,
+    "Area": 163610.0,
+    "population": 11818618,
+    "countryFlagImg": "https://flagcdn.com/w320/tn.png",
+    "countryBorders": ["DZA", "LBY"]
+  },
+  "ARE": {
+    "Name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "currency": {
+      "AED": {
+        "name": "United Arab Emirates dirham",
+        "symbol": "\u062f.\u0625"
+      }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 24.0,
+    "longitude": 54.0,
+    "Area": 83600.0,
+    "population": 9890400,
+    "countryFlagImg": "https://flagcdn.com/w320/ae.png",
+    "countryBorders": ["OMN", "SAU"]
+  },
+  "MNG": {
+    "Name": "Mongolia",
+    "capital": "Ulan Bator",
+    "currency": {
+      "MNT": { "name": "Mongolian t\u00f6gr\u00f6g", "symbol": "\u20ae" }
+    },
+    "languages": { "mon": "Mongolian" },
+    "latitude": 46.0,
+    "longitude": 105.0,
+    "Area": 1564110.0,
+    "population": 3278292,
+    "countryFlagImg": "https://flagcdn.com/w320/mn.png",
+    "countryBorders": ["CHN", "RUS"]
+  },
+  "NOR": {
+    "Name": "Norway",
+    "capital": "Oslo",
+    "currency": { "NOK": { "name": "Norwegian krone", "symbol": "kr" } },
+    "languages": {
+      "nno": "Norwegian Nynorsk",
+      "nob": "Norwegian Bokm\u00e5l",
+      "smi": "Sami"
+    },
+    "latitude": 62.0,
+    "longitude": 10.0,
+    "Area": 323802.0,
+    "population": 5379475,
+    "countryFlagImg": "https://flagcdn.com/w320/no.png",
+    "countryBorders": ["FIN", "SWE", "RUS"]
+  },
+  "GRL": {
+    "Name": "Greenland",
+    "capital": "Nuuk",
+    "currency": { "DKK": { "name": "krone", "symbol": "kr." } },
+    "languages": { "kal": "Greenlandic" },
+    "latitude": 72.0,
+    "longitude": -40.0,
+    "Area": 2166086.0,
+    "population": 56367,
+    "countryFlagImg": "https://flagcdn.com/w320/gl.png",
+    "countryBorders": []
+  },
+  "URY": {
+    "Name": "Uruguay",
+    "capital": "Montevideo",
+    "currency": { "UYU": { "name": "Uruguayan peso", "symbol": "$" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": -33.0,
+    "longitude": -56.0,
+    "Area": 181034.0,
+    "population": 3473727,
+    "countryFlagImg": "https://flagcdn.com/w320/uy.png",
+    "countryBorders": ["ARG", "BRA"]
+  },
+  "BHS": {
+    "Name": "Bahamas",
+    "capital": "Nassau",
+    "currency": {
+      "BSD": { "name": "Bahamian dollar", "symbol": "$" },
+      "USD": { "name": "United States dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 25.0343,
+    "longitude": -77.3963,
+    "Area": 13943.0,
+    "population": 393248,
+    "countryFlagImg": "https://flagcdn.com/w320/bs.png",
+    "countryBorders": []
+  },
+  "RUS": {
+    "Name": "Russia",
+    "capital": "Moscow",
+    "currency": { "RUB": { "name": "Russian ruble", "symbol": "\u20bd" } },
+    "languages": { "rus": "Russian" },
+    "latitude": 60.0,
+    "longitude": 100.0,
+    "Area": 17098242.0,
+    "population": 144104080,
+    "countryFlagImg": "https://flagcdn.com/w320/ru.png",
+    "countryBorders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ]
+  },
+  "VGB": {
+    "Name": "British Virgin Islands",
+    "capital": "Road Town",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 18.431383,
+    "longitude": -64.62305,
+    "Area": 151.0,
+    "population": 30237,
+    "countryFlagImg": "https://flagcdn.com/w320/vg.png",
+    "countryBorders": []
+  },
+  "WLF": {
+    "Name": "Wallis and Futuna",
+    "capital": "Mata-Utu",
+    "currency": { "XPF": { "name": "CFP franc", "symbol": "\u20a3" } },
+    "languages": { "fra": "French" },
+    "latitude": -13.3,
+    "longitude": -176.2,
+    "Area": 142.0,
+    "population": 11750,
+    "countryFlagImg": "https://flagcdn.com/w320/wf.png",
+    "countryBorders": []
+  },
+  "TCD": {
+    "Name": "Chad",
+    "capital": "N'Djamena",
+    "currency": {
+      "XAF": { "name": "Central African CFA franc", "symbol": "Fr" }
+    },
+    "languages": { "ara": "Arabic", "fra": "French" },
+    "latitude": 15.0,
+    "longitude": 19.0,
+    "Area": 1284000.0,
+    "population": 16425859,
+    "countryFlagImg": "https://flagcdn.com/w320/td.png",
+    "countryBorders": ["CMR", "CAF", "LBY", "NER", "NGA", "SDN"]
+  },
+  "LCA": {
+    "Name": "Saint Lucia",
+    "capital": "Castries",
+    "currency": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 13.88333333,
+    "longitude": -60.96666666,
+    "Area": 616.0,
+    "population": 183629,
+    "countryFlagImg": "https://flagcdn.com/w320/lc.png",
+    "countryBorders": []
+  },
+  "YEM": {
+    "Name": "Yemen",
+    "capital": "Sana'a",
+    "currency": { "YER": { "name": "Yemeni rial", "symbol": "\ufdfc" } },
+    "languages": { "ara": "Arabic" },
+    "latitude": 15.0,
+    "longitude": 48.0,
+    "Area": 527968.0,
+    "population": 29825968,
+    "countryFlagImg": "https://flagcdn.com/w320/ye.png",
+    "countryBorders": ["OMN", "SAU"]
+  },
+  "UMI": {
+    "Name": "United States Minor Outlying Islands",
+    "capital": "Washington DC",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 19.3,
+    "longitude": 166.633333,
+    "Area": 34.2,
+    "population": 300,
+    "countryFlagImg": "https://flagcdn.com/w320/um.png",
+    "countryBorders": []
+  },
+  "SWE": {
+    "Name": "Sweden",
+    "capital": "Stockholm",
+    "currency": { "SEK": { "name": "Swedish krona", "symbol": "kr" } },
+    "languages": { "swe": "Swedish" },
+    "latitude": 62.0,
+    "longitude": 15.0,
+    "Area": 450295.0,
+    "population": 10353442,
+    "countryFlagImg": "https://flagcdn.com/w320/se.png",
+    "countryBorders": ["FIN", "NOR"]
+  },
+  "SJM": {
+    "Name": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "currency": { "NOK": { "name": "krone", "symbol": "kr" } },
+    "languages": { "nor": "Norwegian" },
+    "latitude": 78.0,
+    "longitude": 20.0,
+    "Area": -1.0,
+    "population": 2562,
+    "countryFlagImg": "https://flagcdn.com/w320/sj.png",
+    "countryBorders": []
+  },
+  "LAO": {
+    "Name": "Laos",
+    "capital": "Vientiane",
+    "currency": { "LAK": { "name": "Lao kip", "symbol": "\u20ad" } },
+    "languages": { "lao": "Lao" },
+    "latitude": 18.0,
+    "longitude": 105.0,
+    "Area": 236800.0,
+    "population": 7275556,
+    "countryFlagImg": "https://flagcdn.com/w320/la.png",
+    "countryBorders": ["MMR", "KHM", "CHN", "THA", "VNM"]
+  },
+  "LVA": {
+    "Name": "Latvia",
+    "capital": "Riga",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "lav": "Latvian" },
+    "latitude": 57.0,
+    "longitude": 25.0,
+    "Area": 64559.0,
+    "population": 1901548,
+    "countryFlagImg": "https://flagcdn.com/w320/lv.png",
+    "countryBorders": ["BLR", "EST", "LTU", "RUS"]
+  },
+  "COL": {
+    "Name": "Colombia",
+    "capital": "Bogot\u00e1",
+    "currency": { "COP": { "name": "Colombian peso", "symbol": "$" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": 4.0,
+    "longitude": -72.0,
+    "Area": 1141748.0,
+    "population": 50882884,
+    "countryFlagImg": "https://flagcdn.com/w320/co.png",
+    "countryBorders": ["BRA", "ECU", "PAN", "PER", "VEN"]
+  },
+  "GRD": {
+    "Name": "Grenada",
+    "capital": "St. George's",
+    "currency": {
+      "XCD": { "name": "Eastern Caribbean dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 12.11666666,
+    "longitude": -61.66666666,
+    "Area": 344.0,
+    "population": 112519,
+    "countryFlagImg": "https://flagcdn.com/w320/gd.png",
+    "countryBorders": []
+  },
+  "BLM": {
+    "Name": "Saint Barth\u00e9lemy",
+    "capital": "Gustavia",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": 18.5,
+    "longitude": -63.41666666,
+    "Area": 21.0,
+    "population": 4255,
+    "countryFlagImg": "https://flagcdn.com/w320/bl.png",
+    "countryBorders": []
+  },
+  "CAN": {
+    "Name": "Canada",
+    "capital": "Ottawa",
+    "currency": { "CAD": { "name": "Canadian dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "fra": "French" },
+    "latitude": 60.0,
+    "longitude": -95.0,
+    "Area": 9984670.0,
+    "population": 38005238,
+    "countryFlagImg": "https://flagcdn.com/w320/ca.png",
+    "countryBorders": ["USA"]
+  },
+  "IND": {
+    "Name": "India",
+    "capital": "New Delhi",
+    "currency": { "INR": { "name": "Indian rupee", "symbol": "\u20b9" } },
+    "languages": { "eng": "English", "hin": "Hindi", "tam": "Tamil" },
+    "latitude": 20.0,
+    "longitude": 77.0,
+    "Area": 3287590.0,
+    "population": 1380004385,
+    "countryFlagImg": "https://flagcdn.com/w320/in.png",
+    "countryBorders": ["BGD", "BTN", "MMR", "CHN", "NPL", "PAK"]
+  },
+  "GNB": {
+    "Name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "currency": { "XOF": { "name": "West African CFA franc", "symbol": "Fr" } },
+    "languages": { "por": "Portuguese", "pov": "Upper Guinea Creole" },
+    "latitude": 12.0,
+    "longitude": -15.0,
+    "Area": 36125.0,
+    "population": 1967998,
+    "countryFlagImg": "https://flagcdn.com/w320/gw.png",
+    "countryBorders": ["GIN", "SEN"]
+  },
+  "MKD": {
+    "Name": "North Macedonia",
+    "capital": "Skopje",
+    "currency": { "MKD": { "name": "denar", "symbol": "den" } },
+    "languages": { "mkd": "Macedonian" },
+    "latitude": 41.83333333,
+    "longitude": 22.0,
+    "Area": 25713.0,
+    "population": 2077132,
+    "countryFlagImg": "https://flagcdn.com/w320/mk.png",
+    "countryBorders": ["ALB", "BGR", "GRC", "UNK", "SRB"]
+  },
+  "PRY": {
+    "Name": "Paraguay",
+    "capital": "Asunci\u00f3n",
+    "currency": {
+      "PYG": { "name": "Paraguayan guaran\u00ed", "symbol": "\u20b2" }
+    },
+    "languages": { "grn": "Guaran\u00ed", "spa": "Spanish" },
+    "latitude": -23.0,
+    "longitude": -58.0,
+    "Area": 406752.0,
+    "population": 7132530,
+    "countryFlagImg": "https://flagcdn.com/w320/py.png",
+    "countryBorders": ["ARG", "BOL", "BRA"]
+  },
+  "HRV": {
+    "Name": "Croatia",
+    "capital": "Zagreb",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "hrv": "Croatian" },
+    "latitude": 45.16666666,
+    "longitude": 15.5,
+    "Area": 56594.0,
+    "population": 4047200,
+    "countryFlagImg": "https://flagcdn.com/w320/hr.png",
+    "countryBorders": ["BIH", "HUN", "MNE", "SRB", "SVN"]
+  },
+  "CRI": {
+    "Name": "Costa Rica",
+    "capital": "San Jos\u00e9",
+    "currency": {
+      "CRC": { "name": "Costa Rican col\u00f3n", "symbol": "\u20a1" }
+    },
+    "languages": { "spa": "Spanish" },
+    "latitude": 10.0,
+    "longitude": -84.0,
+    "Area": 51100.0,
+    "population": 5094114,
+    "countryFlagImg": "https://flagcdn.com/w320/cr.png",
+    "countryBorders": ["NIC", "PAN"]
+  },
+  "UGA": {
+    "Name": "Uganda",
+    "capital": "Kampala",
+    "currency": { "UGX": { "name": "Ugandan shilling", "symbol": "Sh" } },
+    "languages": { "eng": "English", "swa": "Swahili" },
+    "latitude": 1.0,
+    "longitude": 32.0,
+    "Area": 241550.0,
+    "population": 45741000,
+    "countryFlagImg": "https://flagcdn.com/w320/ug.png",
+    "countryBorders": ["COD", "KEN", "RWA", "SSD", "TZA"]
+  },
+  "BES": {
+    "Name": "Caribbean Netherlands",
+    "capital": "Kralendijk",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "nld": "Dutch", "pap": "Papiamento" },
+    "latitude": 12.18,
+    "longitude": -68.25,
+    "Area": 328.0,
+    "population": 25987,
+    "countryFlagImg": "https://flagcdn.com/w320/bq.png",
+    "countryBorders": []
+  },
+  "BOL": {
+    "Name": "Bolivia",
+    "capital": "Sucre",
+    "currency": { "BOB": { "name": "Bolivian boliviano", "symbol": "Bs." } },
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaran\u00ed",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "latitude": -17.0,
+    "longitude": -65.0,
+    "Area": 1098581.0,
+    "population": 11673029,
+    "countryFlagImg": "https://flagcdn.com/w320/bo.png",
+    "countryBorders": ["ARG", "BRA", "CHL", "PRY", "PER"]
+  },
+  "TGO": {
+    "Name": "Togo",
+    "capital": "Lom\u00e9",
+    "currency": { "XOF": { "name": "West African CFA franc", "symbol": "Fr" } },
+    "languages": { "fra": "French" },
+    "latitude": 8.0,
+    "longitude": 1.16666666,
+    "Area": 56785.0,
+    "population": 8278737,
+    "countryFlagImg": "https://flagcdn.com/w320/tg.png",
+    "countryBorders": ["BEN", "BFA", "GHA"]
+  },
+  "MYT": {
+    "Name": "Mayotte",
+    "capital": "Mamoudzou",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": -12.83333333,
+    "longitude": 45.16666666,
+    "Area": 374.0,
+    "population": 226915,
+    "countryFlagImg": "https://flagcdn.com/w320/yt.png",
+    "countryBorders": []
+  },
+  "MHL": {
+    "Name": "Marshall Islands",
+    "capital": "Majuro",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "mah": "Marshallese" },
+    "latitude": 9.0,
+    "longitude": 168.0,
+    "Area": 181.0,
+    "population": 59194,
+    "countryFlagImg": "https://flagcdn.com/w320/mh.png",
+    "countryBorders": []
+  },
+  "PRK": {
+    "Name": "North Korea",
+    "capital": "Pyongyang",
+    "currency": { "KPW": { "name": "North Korean won", "symbol": "\u20a9" } },
+    "languages": { "kor": "Korean" },
+    "latitude": 40.0,
+    "longitude": 127.0,
+    "Area": 120538.0,
+    "population": 25778815,
+    "countryFlagImg": "https://flagcdn.com/w320/kp.png",
+    "countryBorders": ["CHN", "KOR", "RUS"]
+  },
+  "NLD": {
+    "Name": "Netherlands",
+    "capital": "Amsterdam",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "nld": "Dutch" },
+    "latitude": 52.5,
+    "longitude": 5.75,
+    "Area": 41850.0,
+    "population": 16655799,
+    "countryFlagImg": "https://flagcdn.com/w320/nl.png",
+    "countryBorders": ["BEL", "DEU"]
+  },
+  "IOT": {
+    "Name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": -6.0,
+    "longitude": 71.5,
+    "Area": 60.0,
+    "population": 3000,
+    "countryFlagImg": "https://flagcdn.com/w320/io.png",
+    "countryBorders": []
+  },
+  "MLT": {
+    "Name": "Malta",
+    "capital": "Valletta",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "eng": "English", "mlt": "Maltese" },
+    "latitude": 35.9375,
+    "longitude": 14.3754,
+    "Area": 316.0,
+    "population": 525285,
+    "countryFlagImg": "https://flagcdn.com/w320/mt.png",
+    "countryBorders": []
+  },
+  "MUS": {
+    "Name": "Mauritius",
+    "capital": "Port Louis",
+    "currency": { "MUR": { "name": "Mauritian rupee", "symbol": "\u20a8" } },
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    },
+    "latitude": -20.28333333,
+    "longitude": 57.55,
+    "Area": 2040.0,
+    "population": 1265740,
+    "countryFlagImg": "https://flagcdn.com/w320/mu.png",
+    "countryBorders": []
+  },
+  "NFK": {
+    "Name": "Norfolk Island",
+    "capital": "Kingston",
+    "currency": { "AUD": { "name": "Australian dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "pih": "Norfuk" },
+    "latitude": -29.03333333,
+    "longitude": 167.95,
+    "Area": 36.0,
+    "population": 2302,
+    "countryFlagImg": "https://flagcdn.com/w320/nf.png",
+    "countryBorders": []
+  },
+  "HND": {
+    "Name": "Honduras",
+    "capital": "Tegucigalpa",
+    "currency": { "HNL": { "name": "Honduran lempira", "symbol": "L" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": 15.0,
+    "longitude": -86.5,
+    "Area": 112492.0,
+    "population": 9904608,
+    "countryFlagImg": "https://flagcdn.com/w320/hn.png",
+    "countryBorders": ["GTM", "SLV", "NIC"]
+  },
+  "ESP": {
+    "Name": "Spain",
+    "capital": "Madrid",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": 40.0,
+    "longitude": -4.0,
+    "Area": 505992.0,
+    "population": 47351567,
+    "countryFlagImg": "https://flagcdn.com/w320/es.png",
+    "countryBorders": ["AND", "FRA", "GIB", "PRT", "MAR"]
+  },
+  "EST": {
+    "Name": "Estonia",
+    "capital": "Tallinn",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "est": "Estonian" },
+    "latitude": 59.0,
+    "longitude": 26.0,
+    "Area": 45227.0,
+    "population": 1331057,
+    "countryFlagImg": "https://flagcdn.com/w320/ee.png",
+    "countryBorders": ["LVA", "RUS"]
+  },
+  "KGZ": {
+    "Name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "currency": { "KGS": { "name": "Kyrgyzstani som", "symbol": "\u0441" } },
+    "languages": { "kir": "Kyrgyz", "rus": "Russian" },
+    "latitude": 41.0,
+    "longitude": 75.0,
+    "Area": 199951.0,
+    "population": 6591600,
+    "countryFlagImg": "https://flagcdn.com/w320/kg.png",
+    "countryBorders": ["CHN", "KAZ", "TJK", "UZB"]
+  },
+  "CHL": {
+    "Name": "Chile",
+    "capital": "Santiago",
+    "currency": { "CLP": { "name": "Chilean peso", "symbol": "$" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": -30.0,
+    "longitude": -71.0,
+    "Area": 756102.0,
+    "population": 19116209,
+    "countryFlagImg": "https://flagcdn.com/w320/cl.png",
+    "countryBorders": ["ARG", "BOL", "PER"]
+  },
+  "BMU": {
+    "Name": "Bermuda",
+    "capital": "Hamilton",
+    "currency": { "BMD": { "name": "Bermudian dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 32.33333333,
+    "longitude": -64.75,
+    "Area": 54.0,
+    "population": 63903,
+    "countryFlagImg": "https://flagcdn.com/w320/bm.png",
+    "countryBorders": []
+  },
+  "GNQ": {
+    "Name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "currency": {
+      "XAF": { "name": "Central African CFA franc", "symbol": "Fr" }
+    },
+    "languages": { "fra": "French", "por": "Portuguese", "spa": "Spanish" },
+    "latitude": 2.0,
+    "longitude": 10.0,
+    "Area": 28051.0,
+    "population": 1402985,
+    "countryFlagImg": "https://flagcdn.com/w320/gq.png",
+    "countryBorders": ["CMR", "GAB"]
+  },
+  "LBR": {
+    "Name": "Liberia",
+    "capital": "Monrovia",
+    "currency": { "LRD": { "name": "Liberian dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 6.5,
+    "longitude": -9.5,
+    "Area": 111369.0,
+    "population": 5057677,
+    "countryFlagImg": "https://flagcdn.com/w320/lr.png",
+    "countryBorders": ["GIN", "CIV", "SLE"]
+  },
+  "PCN": {
+    "Name": "Pitcairn Islands",
+    "capital": "Adamstown",
+    "currency": { "NZD": { "name": "New Zealand dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": -25.06666666,
+    "longitude": -130.1,
+    "Area": 47.0,
+    "population": 56,
+    "countryFlagImg": "https://flagcdn.com/w320/pn.png",
+    "countryBorders": []
+  },
+  "LBY": {
+    "Name": "Libya",
+    "capital": "Tripoli",
+    "currency": {
+      "LYD": { "name": "Libyan dinar", "symbol": "\u0644.\u062f" }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 25.0,
+    "longitude": 17.0,
+    "Area": 1759540.0,
+    "population": 6871287,
+    "countryFlagImg": "https://flagcdn.com/w320/ly.png",
+    "countryBorders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"]
+  },
+  "LIE": {
+    "Name": "Liechtenstein",
+    "capital": "Vaduz",
+    "currency": { "CHF": { "name": "Swiss franc", "symbol": "Fr" } },
+    "languages": { "deu": "German" },
+    "latitude": 47.26666666,
+    "longitude": 9.53333333,
+    "Area": 160.0,
+    "population": 38137,
+    "countryFlagImg": "https://flagcdn.com/w320/li.png",
+    "countryBorders": ["AUT", "CHE"]
+  },
+  "VAT": {
+    "Name": "Vatican City",
+    "capital": "Vatican City",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "ita": "Italian", "lat": "Latin" },
+    "latitude": 41.9,
+    "longitude": 12.45,
+    "Area": 0.44,
+    "population": 451,
+    "countryFlagImg": "https://flagcdn.com/w320/va.png",
+    "countryBorders": ["ITA"]
+  },
+  "CXR": {
+    "Name": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "currency": { "AUD": { "name": "Australian dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": -10.5,
+    "longitude": 105.66666666,
+    "Area": 135.0,
+    "population": 2072,
+    "countryFlagImg": "https://flagcdn.com/w320/cx.png",
+    "countryBorders": []
+  },
+  "OMN": {
+    "Name": "Oman",
+    "capital": "Muscat",
+    "currency": { "OMR": { "name": "Omani rial", "symbol": "\u0631.\u0639." } },
+    "languages": { "ara": "Arabic" },
+    "latitude": 21.0,
+    "longitude": 57.0,
+    "Area": 309500.0,
+    "population": 5106622,
+    "countryFlagImg": "https://flagcdn.com/w320/om.png",
+    "countryBorders": ["SAU", "ARE", "YEM"]
+  },
+  "PHL": {
+    "Name": "Philippines",
+    "capital": "Manila",
+    "currency": { "PHP": { "name": "Philippine peso", "symbol": "\u20b1" } },
+    "languages": { "eng": "English", "fil": "Filipino" },
+    "latitude": 13.0,
+    "longitude": 122.0,
+    "Area": 342353.0,
+    "population": 109581085,
+    "countryFlagImg": "https://flagcdn.com/w320/ph.png",
+    "countryBorders": []
+  },
+  "POL": {
+    "Name": "Poland",
+    "capital": "Warsaw",
+    "currency": { "PLN": { "name": "Polish z\u0142oty", "symbol": "z\u0142" } },
+    "languages": { "pol": "Polish" },
+    "latitude": 52.0,
+    "longitude": 20.0,
+    "Area": 312679.0,
+    "population": 37950802,
+    "countryFlagImg": "https://flagcdn.com/w320/pl.png",
+    "countryBorders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"]
+  },
+  "FRO": {
+    "Name": "Faroe Islands",
+    "capital": "T\u00f3rshavn",
+    "currency": {
+      "DKK": { "name": "Danish krone", "symbol": "kr" },
+      "FOK": { "name": "Faroese kr\u00f3na", "symbol": "kr" }
+    },
+    "languages": { "dan": "Danish", "fao": "Faroese" },
+    "latitude": 62.0,
+    "longitude": -7.0,
+    "Area": 1393.0,
+    "population": 48865,
+    "countryFlagImg": "https://flagcdn.com/w320/fo.png",
+    "countryBorders": []
+  },
+  "BHR": {
+    "Name": "Bahrain",
+    "capital": "Manama",
+    "currency": {
+      "BHD": { "name": "Bahraini dinar", "symbol": ".\u062f.\u0628" }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 26.0,
+    "longitude": 50.55,
+    "Area": 765.0,
+    "population": 1701583,
+    "countryFlagImg": "https://flagcdn.com/w320/bh.png",
+    "countryBorders": []
+  },
+  "BLR": {
+    "Name": "Belarus",
+    "capital": "Minsk",
+    "currency": { "BYN": { "name": "Belarusian ruble", "symbol": "Br" } },
+    "languages": { "bel": "Belarusian", "rus": "Russian" },
+    "latitude": 53.0,
+    "longitude": 28.0,
+    "Area": 207600.0,
+    "population": 9398861,
+    "countryFlagImg": "https://flagcdn.com/w320/by.png",
+    "countryBorders": ["LVA", "LTU", "POL", "RUS", "UKR"]
+  },
+  "SVN": {
+    "Name": "Slovenia",
+    "capital": "Ljubljana",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "slv": "Slovene" },
+    "latitude": 46.11666666,
+    "longitude": 14.81666666,
+    "Area": 20273.0,
+    "population": 2100126,
+    "countryFlagImg": "https://flagcdn.com/w320/si.png",
+    "countryBorders": ["AUT", "HRV", "ITA", "HUN"]
+  },
+  "GLP": {
+    "Name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": 16.25,
+    "longitude": -61.583333,
+    "Area": 1628.0,
+    "population": 400132,
+    "countryFlagImg": "https://flagcdn.com/w320/gp.png",
+    "countryBorders": []
+  },
+  "QAT": {
+    "Name": "Qatar",
+    "capital": "Doha",
+    "currency": {
+      "QAR": { "name": "Qatari riyal", "symbol": "\u0631.\u0642" }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 25.5,
+    "longitude": 51.25,
+    "Area": 11586.0,
+    "population": 2881060,
+    "countryFlagImg": "https://flagcdn.com/w320/qa.png",
+    "countryBorders": ["SAU"]
+  },
+  "VNM": {
+    "Name": "Vietnam",
+    "capital": "Hanoi",
+    "currency": {
+      "VND": { "name": "Vietnamese \u0111\u1ed3ng", "symbol": "\u20ab" }
+    },
+    "languages": { "vie": "Vietnamese" },
+    "latitude": 16.16666666,
+    "longitude": 107.83333333,
+    "Area": 331212.0,
+    "population": 97338583,
+    "countryFlagImg": "https://flagcdn.com/w320/vn.png",
+    "countryBorders": ["KHM", "CHN", "LAO"]
+  },
+  "MRT": {
+    "Name": "Mauritania",
+    "capital": "Nouakchott",
+    "currency": { "MRU": { "name": "Mauritanian ouguiya", "symbol": "UM" } },
+    "languages": { "ara": "Arabic" },
+    "latitude": 20.0,
+    "longitude": -12.0,
+    "Area": 1030700.0,
+    "population": 4649660,
+    "countryFlagImg": "https://flagcdn.com/w320/mr.png",
+    "countryBorders": ["DZA", "MLI", "SEN", "ESH"]
+  },
+  "SGP": {
+    "Name": "Singapore",
+    "capital": "Singapore",
+    "currency": { "SGD": { "name": "Singapore dollar", "symbol": "$" } },
+    "languages": {
+      "zho": "Chinese",
+      "eng": "English",
+      "msa": "Malay",
+      "tam": "Tamil"
+    },
+    "latitude": 1.36666666,
+    "longitude": 103.8,
+    "Area": 710.0,
+    "population": 5685807,
+    "countryFlagImg": "https://flagcdn.com/w320/sg.png",
+    "countryBorders": []
+  },
+  "GEO": {
+    "Name": "Georgia",
+    "capital": "Tbilisi",
+    "currency": { "GEL": { "name": "lari", "symbol": "\u20be" } },
+    "languages": { "kat": "Georgian" },
+    "latitude": 42.0,
+    "longitude": 43.5,
+    "Area": 69700.0,
+    "population": 3714000,
+    "countryFlagImg": "https://flagcdn.com/w320/ge.png",
+    "countryBorders": ["ARM", "AZE", "RUS", "TUR"]
+  },
+  "BDI": {
+    "Name": "Burundi",
+    "capital": "Gitega",
+    "currency": { "BIF": { "name": "Burundian franc", "symbol": "Fr" } },
+    "languages": { "fra": "French", "run": "Kirundi" },
+    "latitude": -3.5,
+    "longitude": 30.0,
+    "Area": 27834.0,
+    "population": 11890781,
+    "countryFlagImg": "https://flagcdn.com/w320/bi.png",
+    "countryBorders": ["COD", "RWA", "TZA"]
+  },
+  "NRU": {
+    "Name": "Nauru",
+    "capital": "Yaren",
+    "currency": { "AUD": { "name": "Australian dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "nau": "Nauru" },
+    "latitude": -0.53333333,
+    "longitude": 166.91666666,
+    "Area": 21.0,
+    "population": 10834,
+    "countryFlagImg": "https://flagcdn.com/w320/nr.png",
+    "countryBorders": []
+  },
+  "SSD": {
+    "Name": "South Sudan",
+    "capital": "Juba",
+    "currency": {
+      "SSP": { "name": "South Sudanese pound", "symbol": "\u00a3" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 7.0,
+    "longitude": 30.0,
+    "Area": 619745.0,
+    "population": 11193729,
+    "countryFlagImg": "https://flagcdn.com/w320/ss.png",
+    "countryBorders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"]
+  },
+  "WSM": {
+    "Name": "Samoa",
+    "capital": "Apia",
+    "currency": { "WST": { "name": "Samoan t\u0101l\u0101", "symbol": "T" } },
+    "languages": { "eng": "English", "smo": "Samoan" },
+    "latitude": -13.58333333,
+    "longitude": -172.33333333,
+    "Area": 2842.0,
+    "population": 198410,
+    "countryFlagImg": "https://flagcdn.com/w320/ws.png",
+    "countryBorders": []
+  },
+  "CCK": {
+    "Name": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "currency": { "AUD": { "name": "Australian dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 12.1642,
+    "longitude": 96.871,
+    "Area": 14.0,
+    "population": 544,
+    "countryFlagImg": "https://flagcdn.com/w320/cc.png",
+    "countryBorders": []
+  },
+  "COG": {
+    "Name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "currency": {
+      "XAF": { "name": "Central African CFA franc", "symbol": "Fr" }
+    },
+    "languages": { "fra": "French", "kon": "Kikongo", "lin": "Lingala" },
+    "latitude": -1.0,
+    "longitude": 15.0,
+    "Area": 342000.0,
+    "population": 5657000,
+    "countryFlagImg": "https://flagcdn.com/w320/cg.png",
+    "countryBorders": ["AGO", "CMR", "CAF", "COD", "GAB"]
+  },
+  "CYP": {
+    "Name": "Cyprus",
+    "capital": "Nicosia",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "ell": "Greek", "tur": "Turkish" },
+    "latitude": 35.0,
+    "longitude": 33.0,
+    "Area": 9251.0,
+    "population": 1207361,
+    "countryFlagImg": "https://flagcdn.com/w320/cy.png",
+    "countryBorders": []
+  },
+  "KWT": {
+    "Name": "Kuwait",
+    "capital": "Kuwait City",
+    "currency": {
+      "KWD": { "name": "Kuwaiti dinar", "symbol": "\u062f.\u0643" }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 29.5,
+    "longitude": 45.75,
+    "Area": 17818.0,
+    "population": 4270563,
+    "countryFlagImg": "https://flagcdn.com/w320/kw.png",
+    "countryBorders": ["IRQ", "SAU"]
+  },
+  "TTO": {
+    "Name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "currency": {
+      "TTD": { "name": "Trinidad and Tobago dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English" },
+    "latitude": 10.6918,
+    "longitude": -61.2225,
+    "Area": 5130.0,
+    "population": 1399491,
+    "countryFlagImg": "https://flagcdn.com/w320/tt.png",
+    "countryBorders": []
+  },
+  "TUV": {
+    "Name": "Tuvalu",
+    "capital": "Funafuti",
+    "currency": {
+      "AUD": { "name": "Australian dollar", "symbol": "$" },
+      "TVD": { "name": "Tuvaluan dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English", "tvl": "Tuvaluan" },
+    "latitude": -8.0,
+    "longitude": 178.0,
+    "Area": 26.0,
+    "population": 11792,
+    "countryFlagImg": "https://flagcdn.com/w320/tv.png",
+    "countryBorders": []
+  },
+  "AGO": {
+    "Name": "Angola",
+    "capital": "Luanda",
+    "currency": { "AOA": { "name": "Angolan kwanza", "symbol": "Kz" } },
+    "languages": { "por": "Portuguese" },
+    "latitude": -12.5,
+    "longitude": 18.5,
+    "Area": 1246700.0,
+    "population": 32866268,
+    "countryFlagImg": "https://flagcdn.com/w320/ao.png",
+    "countryBorders": ["COG", "COD", "ZMB", "NAM"]
+  },
+  "TON": {
+    "Name": "Tonga",
+    "capital": "Nuku'alofa",
+    "currency": { "TOP": { "name": "Tongan pa\u02bbanga", "symbol": "T$" } },
+    "languages": { "eng": "English", "ton": "Tongan" },
+    "latitude": -20.0,
+    "longitude": -175.0,
+    "Area": 747.0,
+    "population": 105697,
+    "countryFlagImg": "https://flagcdn.com/w320/to.png",
+    "countryBorders": []
+  },
+  "GRC": {
+    "Name": "Greece",
+    "capital": "Athens",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "ell": "Greek" },
+    "latitude": 39.0,
+    "longitude": 22.0,
+    "Area": 131990.0,
+    "population": 10715549,
+    "countryFlagImg": "https://flagcdn.com/w320/gr.png",
+    "countryBorders": ["ALB", "BGR", "TUR", "MKD"]
+  },
+  "MOZ": {
+    "Name": "Mozambique",
+    "capital": "Maputo",
+    "currency": { "MZN": { "name": "Mozambican metical", "symbol": "MT" } },
+    "languages": { "por": "Portuguese" },
+    "latitude": -18.25,
+    "longitude": 35.0,
+    "Area": 801590.0,
+    "population": 31255435,
+    "countryFlagImg": "https://flagcdn.com/w320/mz.png",
+    "countryBorders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"]
+  },
+  "MMR": {
+    "Name": "Myanmar",
+    "capital": "Naypyidaw",
+    "currency": { "MMK": { "name": "Burmese kyat", "symbol": "Ks" } },
+    "languages": { "mya": "Burmese" },
+    "latitude": 22.0,
+    "longitude": 98.0,
+    "Area": 676578.0,
+    "population": 54409794,
+    "countryFlagImg": "https://flagcdn.com/w320/mm.png",
+    "countryBorders": ["BGD", "CHN", "IND", "LAO", "THA"]
+  },
+  "AUT": {
+    "Name": "Austria",
+    "capital": "Vienna",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "de": "German" },
+    "latitude": 47.33333333,
+    "longitude": 13.33333333,
+    "Area": 83871.0,
+    "population": 8917205,
+    "countryFlagImg": "https://flagcdn.com/w320/at.png",
+    "countryBorders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"]
+  },
+  "ETH": {
+    "Name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "currency": { "ETB": { "name": "Ethiopian birr", "symbol": "Br" } },
+    "languages": { "amh": "Amharic" },
+    "latitude": 8.0,
+    "longitude": 38.0,
+    "Area": 1104300.0,
+    "population": 114963583,
+    "countryFlagImg": "https://flagcdn.com/w320/et.png",
+    "countryBorders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"]
+  },
+  "MTQ": {
+    "Name": "Martinique",
+    "capital": "Fort-de-France",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fra": "French" },
+    "latitude": 14.666667,
+    "longitude": -61.0,
+    "Area": 1128.0,
+    "population": 378243,
+    "countryFlagImg": "https://flagcdn.com/w320/mq.png",
+    "countryBorders": []
+  },
+  "AZE": {
+    "Name": "Azerbaijan",
+    "capital": "Baku",
+    "currency": { "AZN": { "name": "Azerbaijani manat", "symbol": "\u20bc" } },
+    "languages": { "aze": "Azerbaijani" },
+    "latitude": 40.5,
+    "longitude": 47.5,
+    "Area": 86600.0,
+    "population": 10110116,
+    "countryFlagImg": "https://flagcdn.com/w320/az.png",
+    "countryBorders": ["ARM", "GEO", "IRN", "RUS", "TUR"]
+  },
+  "UZB": {
+    "Name": "Uzbekistan",
+    "capital": "Tashkent",
+    "currency": {
+      "UZS": { "name": "Uzbekistani so\u02bbm", "symbol": "so'm" }
+    },
+    "languages": { "rus": "Russian", "uzb": "Uzbek" },
+    "latitude": 41.0,
+    "longitude": 64.0,
+    "Area": 447400.0,
+    "population": 34232050,
+    "countryFlagImg": "https://flagcdn.com/w320/uz.png",
+    "countryBorders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"]
+  },
+  "BGD": {
+    "Name": "Bangladesh",
+    "capital": "Dhaka",
+    "currency": { "BDT": { "name": "Bangladeshi taka", "symbol": "\u09f3" } },
+    "languages": { "ben": "Bengali" },
+    "latitude": 24.0,
+    "longitude": 90.0,
+    "Area": 147570.0,
+    "population": 164689383,
+    "countryFlagImg": "https://flagcdn.com/w320/bd.png",
+    "countryBorders": ["MMR", "IND"]
+  },
+  "ARM": {
+    "Name": "Armenia",
+    "capital": "Yerevan",
+    "currency": { "AMD": { "name": "Armenian dram", "symbol": "\u058f" } },
+    "languages": { "hye": "Armenian" },
+    "latitude": 40.0,
+    "longitude": 45.0,
+    "Area": 29743.0,
+    "population": 2963234,
+    "countryFlagImg": "https://flagcdn.com/w320/am.png",
+    "countryBorders": ["AZE", "GEO", "IRN", "TUR"]
+  },
+  "NGA": {
+    "Name": "Nigeria",
+    "capital": "Abuja",
+    "currency": { "NGN": { "name": "Nigerian naira", "symbol": "\u20a6" } },
+    "languages": { "eng": "English" },
+    "latitude": 10.0,
+    "longitude": 8.0,
+    "Area": 923768.0,
+    "population": 206139587,
+    "countryFlagImg": "https://flagcdn.com/w320/ng.png",
+    "countryBorders": ["BEN", "CMR", "TCD", "NER"]
+  },
+  "ZAF": {
+    "Name": "South Africa",
+    "capital": "Pretoria",
+    "currency": { "ZAR": { "name": "South African rand", "symbol": "R" } },
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "latitude": -29.0,
+    "longitude": 24.0,
+    "Area": 1221037.0,
+    "population": 59308690,
+    "countryFlagImg": "https://flagcdn.com/w320/za.png",
+    "countryBorders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"]
+  },
+  "BRN": {
+    "Name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "currency": {
+      "BND": { "name": "Brunei dollar", "symbol": "$" },
+      "SGD": { "name": "Singapore dollar", "symbol": "$" }
+    },
+    "languages": { "msa": "Malay" },
+    "latitude": 4.5,
+    "longitude": 114.66666666,
+    "Area": 5765.0,
+    "population": 437483,
+    "countryFlagImg": "https://flagcdn.com/w320/bn.png",
+    "countryBorders": ["MYS"]
+  },
+  "ITA": {
+    "Name": "Italy",
+    "capital": "Rome",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "ita": "Italian" },
+    "latitude": 42.83333333,
+    "longitude": 12.83333333,
+    "Area": 301336.0,
+    "population": 59554023,
+    "countryFlagImg": "https://flagcdn.com/w320/it.png",
+    "countryBorders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"]
+  },
+  "FIN": {
+    "Name": "Finland",
+    "capital": "Helsinki",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "fin": "Finnish", "swe": "Swedish" },
+    "latitude": 64.0,
+    "longitude": 26.0,
+    "Area": 338424.0,
+    "population": 5530719,
+    "countryFlagImg": "https://flagcdn.com/w320/fi.png",
+    "countryBorders": ["NOR", "SWE", "RUS"]
+  },
+  "ISR": {
+    "Name": "Israel",
+    "capital": "Jerusalem",
+    "currency": { "ILS": { "name": "Israeli new shekel", "symbol": "\u20aa" } },
+    "languages": { "ara": "Arabic", "heb": "Hebrew" },
+    "latitude": 31.47,
+    "longitude": 35.13,
+    "Area": 20770.0,
+    "population": 9216900,
+    "countryFlagImg": "https://flagcdn.com/w320/il.png",
+    "countryBorders": ["EGY", "JOR", "LBN", "PSE", "SYR"]
+  },
+  "ABW": {
+    "Name": "Aruba",
+    "capital": "Oranjestad",
+    "currency": { "AWG": { "name": "Aruban florin", "symbol": "\u0192" } },
+    "languages": { "nld": "Dutch", "pap": "Papiamento" },
+    "latitude": 12.5,
+    "longitude": -69.96666666,
+    "Area": 180.0,
+    "population": 106766,
+    "countryFlagImg": "https://flagcdn.com/w320/aw.png",
+    "countryBorders": []
+  },
+  "NIC": {
+    "Name": "Nicaragua",
+    "capital": "Managua",
+    "currency": {
+      "NIO": { "name": "Nicaraguan c\u00f3rdoba", "symbol": "C$" }
+    },
+    "languages": { "spa": "Spanish" },
+    "latitude": 13.0,
+    "longitude": -85.0,
+    "Area": 130373.0,
+    "population": 6624554,
+    "countryFlagImg": "https://flagcdn.com/w320/ni.png",
+    "countryBorders": ["CRI", "HND"]
+  },
+  "HTI": {
+    "Name": "Haiti",
+    "capital": "Port-au-Prince",
+    "currency": { "HTG": { "name": "Haitian gourde", "symbol": "G" } },
+    "languages": { "fra": "French", "hat": "Haitian Creole" },
+    "latitude": 19.0,
+    "longitude": -72.41666666,
+    "Area": 27750.0,
+    "population": 11402533,
+    "countryFlagImg": "https://flagcdn.com/w320/ht.png",
+    "countryBorders": ["DOM"]
+  },
+  "KIR": {
+    "Name": "Kiribati",
+    "capital": "South Tarawa",
+    "currency": {
+      "AUD": { "name": "Australian dollar", "symbol": "$" },
+      "KID": { "name": "Kiribati dollar", "symbol": "$" }
+    },
+    "languages": { "eng": "English", "gil": "Gilbertese" },
+    "latitude": 1.41666666,
+    "longitude": 173.0,
+    "Area": 811.0,
+    "population": 119446,
+    "countryFlagImg": "https://flagcdn.com/w320/ki.png",
+    "countryBorders": []
+  },
+  "TCA": {
+    "Name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 21.75,
+    "longitude": -71.58333333,
+    "Area": 948.0,
+    "population": 38718,
+    "countryFlagImg": "https://flagcdn.com/w320/tc.png",
+    "countryBorders": []
+  },
+  "CYM": {
+    "Name": "Cayman Islands",
+    "capital": "George Town",
+    "currency": { "KYD": { "name": "Cayman Islands dollar", "symbol": "$" } },
+    "languages": { "eng": "English" },
+    "latitude": 19.3133,
+    "longitude": -81.2546,
+    "Area": 264.0,
+    "population": 65720,
+    "countryFlagImg": "https://flagcdn.com/w320/ky.png",
+    "countryBorders": []
+  },
+  "UKR": {
+    "Name": "Ukraine",
+    "capital": "Kyiv",
+    "currency": { "UAH": { "name": "Ukrainian hryvnia", "symbol": "\u20b4" } },
+    "languages": { "ukr": "Ukrainian" },
+    "latitude": 49.0,
+    "longitude": 32.0,
+    "Area": 603500.0,
+    "population": 44134693,
+    "countryFlagImg": "https://flagcdn.com/w320/ua.png",
+    "countryBorders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"]
+  },
+  "MEX": {
+    "Name": "Mexico",
+    "capital": "Mexico City",
+    "currency": { "MXN": { "name": "Mexican peso", "symbol": "$" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": 23.0,
+    "longitude": -102.0,
+    "Area": 1964375.0,
+    "population": 128932753,
+    "countryFlagImg": "https://flagcdn.com/w320/mx.png",
+    "countryBorders": ["BLZ", "GTM", "USA"]
+  },
+  "PSE": {
+    "Name": "Palestine",
+    "capital": "Ramallah",
+    "currency": {
+      "EGP": { "name": "Egyptian pound", "symbol": "E\u00a3" },
+      "ILS": { "name": "Israeli new shekel", "symbol": "\u20aa" },
+      "JOD": { "name": "Jordanian dinar", "symbol": "JD" }
+    },
+    "languages": { "ara": "Arabic" },
+    "latitude": 31.9,
+    "longitude": 35.2,
+    "Area": 6220.0,
+    "population": 4803269,
+    "countryFlagImg": "https://flagcdn.com/w320/ps.png",
+    "countryBorders": ["ISR", "EGY", "JOR"]
+  },
+  "FJI": {
+    "Name": "Fiji",
+    "capital": "Suva",
+    "currency": { "FJD": { "name": "Fijian dollar", "symbol": "$" } },
+    "languages": { "eng": "English", "fij": "Fijian", "hif": "Fiji Hindi" },
+    "latitude": 17.7134,
+    "longitude": 178.065,
+    "Area": 18272.0,
+    "population": 896444,
+    "countryFlagImg": "https://flagcdn.com/w320/fj.png",
+    "countryBorders": []
+  },
+  "SVK": {
+    "Name": "Slovakia",
+    "capital": "Bratislava",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "slk": "Slovak" },
+    "latitude": 48.66666666,
+    "longitude": 19.5,
+    "Area": 49037.0,
+    "population": 5458827,
+    "countryFlagImg": "https://flagcdn.com/w320/sk.png",
+    "countryBorders": ["AUT", "CZE", "HUN", "POL", "UKR"]
+  },
+  "GHA": {
+    "Name": "Ghana",
+    "capital": "Accra",
+    "currency": { "GHS": { "name": "Ghanaian cedi", "symbol": "\u20b5" } },
+    "languages": { "eng": "English" },
+    "latitude": 8.0,
+    "longitude": -2.0,
+    "Area": 238533.0,
+    "population": 31072945,
+    "countryFlagImg": "https://flagcdn.com/w320/gh.png",
+    "countryBorders": ["BFA", "CIV", "TGO"]
+  },
+  "SUR": {
+    "Name": "Suriname",
+    "capital": "Paramaribo",
+    "currency": { "SRD": { "name": "Surinamese dollar", "symbol": "$" } },
+    "languages": { "nld": "Dutch" },
+    "latitude": 4.0,
+    "longitude": -56.0,
+    "Area": 163820.0,
+    "population": 586634,
+    "countryFlagImg": "https://flagcdn.com/w320/sr.png",
+    "countryBorders": ["BRA", "GUF", "GUY"]
+  },
+  "CUB": {
+    "Name": "Cuba",
+    "capital": "Havana",
+    "currency": {
+      "CUC": { "name": "Cuban convertible peso", "symbol": "$" },
+      "CUP": { "name": "Cuban peso", "symbol": "$" }
+    },
+    "languages": { "spa": "Spanish" },
+    "latitude": 21.5,
+    "longitude": -80.0,
+    "Area": 109884.0,
+    "population": 11326616,
+    "countryFlagImg": "https://flagcdn.com/w320/cu.png",
+    "countryBorders": []
+  },
+  "BTN": {
+    "Name": "Bhutan",
+    "capital": "Thimphu",
+    "currency": {
+      "BTN": { "name": "Bhutanese ngultrum", "symbol": "Nu." },
+      "INR": { "name": "Indian rupee", "symbol": "\u20b9" }
+    },
+    "languages": { "dzo": "Dzongkha" },
+    "latitude": 27.5,
+    "longitude": 90.5,
+    "Area": 38394.0,
+    "population": 771612,
+    "countryFlagImg": "https://flagcdn.com/w320/bt.png",
+    "countryBorders": ["CHN", "IND"]
+  },
+  "HUN": {
+    "Name": "Hungary",
+    "capital": "Budapest",
+    "currency": { "HUF": { "name": "Hungarian forint", "symbol": "Ft" } },
+    "languages": { "hun": "Hungarian" },
+    "latitude": 47.0,
+    "longitude": 20.0,
+    "Area": 93028.0,
+    "population": 9749763,
+    "countryFlagImg": "https://flagcdn.com/w320/hu.png",
+    "countryBorders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"]
+  },
+  "STP": {
+    "Name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "capital": "S\u00e3o Tom\u00e9",
+    "currency": {
+      "STN": {
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
+        "symbol": "Db"
+      }
+    },
+    "languages": { "por": "Portuguese" },
+    "latitude": 1.0,
+    "longitude": 7.0,
+    "Area": 964.0,
+    "population": 219161,
+    "countryFlagImg": "https://flagcdn.com/w320/st.png",
+    "countryBorders": []
+  },
+  "IRQ": {
+    "Name": "Iraq",
+    "capital": "Baghdad",
+    "currency": { "IQD": { "name": "Iraqi dinar", "symbol": "\u0639.\u062f" } },
+    "languages": { "ara": "Arabic", "arc": "Aramaic", "ckb": "Sorani" },
+    "latitude": 33.0,
+    "longitude": 44.0,
+    "Area": 438317.0,
+    "population": 40222503,
+    "countryFlagImg": "https://flagcdn.com/w320/iq.png",
+    "countryBorders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"]
+  },
+  "CZE": {
+    "Name": "Czechia",
+    "capital": "Prague",
+    "currency": { "CZK": { "name": "Czech koruna", "symbol": "K\u010d" } },
+    "languages": { "ces": "Czech", "slk": "Slovak" },
+    "latitude": 49.75,
+    "longitude": 15.5,
+    "Area": 78865.0,
+    "population": 10698896,
+    "countryFlagImg": "https://flagcdn.com/w320/cz.png",
+    "countryBorders": ["AUT", "DEU", "POL", "SVK"]
+  },
+  "LTU": {
+    "Name": "Lithuania",
+    "capital": "Vilnius",
+    "currency": { "EUR": { "name": "Euro", "symbol": "\u20ac" } },
+    "languages": { "lit": "Lithuanian" },
+    "latitude": 56.0,
+    "longitude": 24.0,
+    "Area": 65300.0,
+    "population": 2794700,
+    "countryFlagImg": "https://flagcdn.com/w320/lt.png",
+    "countryBorders": ["BLR", "LVA", "POL", "RUS"]
+  },
+  "MNP": {
+    "Name": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "cal": "Carolinian", "cha": "Chamorro", "eng": "English" },
+    "latitude": 15.2,
+    "longitude": 145.75,
+    "Area": 464.0,
+    "population": 57557,
+    "countryFlagImg": "https://flagcdn.com/w320/mp.png",
+    "countryBorders": []
+  },
+  "BWA": {
+    "Name": "Botswana",
+    "capital": "Gaborone",
+    "currency": { "BWP": { "name": "Botswana pula", "symbol": "P" } },
+    "languages": { "eng": "English", "tsn": "Tswana" },
+    "latitude": -22.0,
+    "longitude": 24.0,
+    "Area": 582000.0,
+    "population": 2351625,
+    "countryFlagImg": "https://flagcdn.com/w320/bw.png",
+    "countryBorders": ["NAM", "ZAF", "ZMB", "ZWE"]
+  },
+  "PAN": {
+    "Name": "Panama",
+    "capital": "Panama City",
+    "currency": {
+      "PAB": { "name": "Panamanian balboa", "symbol": "B/." },
+      "USD": { "name": "United States dollar", "symbol": "$" }
+    },
+    "languages": { "spa": "Spanish" },
+    "latitude": 9.0,
+    "longitude": -80.0,
+    "Area": 75417.0,
+    "population": 4314768,
+    "countryFlagImg": "https://flagcdn.com/w320/pa.png",
+    "countryBorders": ["COL", "CRI"]
+  },
+  "GAB": {
+    "Name": "Gabon",
+    "capital": "Libreville",
+    "currency": {
+      "XAF": { "name": "Central African CFA franc", "symbol": "Fr" }
+    },
+    "languages": { "fra": "French" },
+    "latitude": -1.0,
+    "longitude": 11.75,
+    "Area": 267668.0,
+    "population": 2225728,
+    "countryFlagImg": "https://flagcdn.com/w320/ga.png",
+    "countryBorders": ["CMR", "COG", "GNQ"]
+  },
+  "ECU": {
+    "Name": "Ecuador",
+    "capital": "Quito",
+    "currency": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "languages": { "spa": "Spanish" },
+    "latitude": -2.0,
+    "longitude": -77.5,
+    "Area": 276841.0,
+    "population": 17643060,
+    "countryFlagImg": "https://flagcdn.com/w320/ec.png",
+    "countryBorders": ["COL", "PER"]
+  }
+}
