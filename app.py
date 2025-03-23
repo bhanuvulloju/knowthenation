@@ -19,7 +19,6 @@ def homePage():
      return render_template('home.html')
 
 
-
 @app.route('/<str>')
 def hello_world(str):
 
@@ -54,22 +53,9 @@ def hello_world(str):
 
  
 
-#  Pavan Code
-@app.route("/countrycca3/<str>")
-def countrycca3(str):
-    return jsonify(countryData[str.upper()])
-
 @app.route("/country/")
 def AllCountryDetails():  
     return jsonify(countryData)
-
-
-@app.route("/country/<str>")
-def countryDetails(str):
-        UserCountry = str.title()
-        alphaCodeValue = alphaCode3[UserCountry]
-        return jsonify(countryData[alphaCodeValue])
-
 
 if __name__ == '__main__':
     app.run(debug=True,port=5003) 
